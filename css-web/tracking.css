@@ -1,0 +1,126 @@
+ <style>
+		.ribbon-new
+{
+ font-size: 8px !important;
+ width:auto;  
+ position: absolute;
+ font-weight:lighter;
+  top:20px;
+  left:10px;
+ background: #71cd50;
+ color: #fff;
+ padding: 1.7px 4px; }
+.ribbon-new .ribbon-content:before {
+ content: "";
+ position: absolute;
+ display: block;
+ border-style: solid;
+ border-color: #57bb33 transparent transparent transparent;
+ bottom: -1em;
+}
+.ribbon-new .ribbon-content:before
+{
+ left: -5px;
+  top:8px;
+ border-width: 0.6em 0em 0 0.8em;
+}
+.ribbon-new .ribbon-content:after
+{
+ right: 0;
+ border-width: 1em 1em 0 0;
+}
+
+		/* home page tracking */
+.home-box
+{
+    margin-top:11%;
+}
+.home-box.modal-dialog
+{
+    width:auto;
+}
+.home-box .modal-content
+{
+    border-radius:5px;
+    border:1px solid #252525;
+    box-shadow: 0 0px 4px rgba(0, 0, 0, .3);
+}
+.home-body
+{
+    padding:40px 30px;
+}
+.home-body h4
+{
+    text-align:center;
+    font-size:16px;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.home-body p
+{
+    text-align:center;
+    color:#888;
+    line-height:25px;
+    padding:8px 10px;
+    font-size:12px;
+}
+.home-body p.md
+{
+    padding:0 10px;
+    font-size:13px;
+}
+hr.thin-line
+{
+    border-top:1px solid #CCC;
+}
+.track-search input.form-control[type="text"] {
+    width: 100%;
+    height: 40px;
+    border-radius: 0;
+    font-family: ubuntu;
+    border:0;
+    border-bottom: 1px solid #CCC;
+    font-size: 17px;
+    padding: 8px 15px;
+    box-shadow:none;
+    margin-bottom:15px;
+    margin-top: 20px;
+}
+.track-search input.form-control[type="text"]:focus
+{
+ border-bottom: 1px solid #f1723f;
+}
+.track-search input[type=text].form-control::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+   color: #CCC;
+  opacity: 1;
+  font-size: 13px;
+}
+.track-search input[type=text].form-control::-moz-placeholder { /* Firefox 19+ */
+  color: #CCC;
+  opacity: 1;
+  font-size: 13px;
+}
+.track-search input.form-control[type="button"] {
+    width: 100%;
+    border-radius: 0;
+    border:0;
+    font-size: 13px;
+    height:45px;
+    box-shadow:none;
+    background:#f1723f;
+    color:#FFF;
+}
+.modal-backdrop.modal-backdrop-trackhome
+{
+    background:#000;
+}
+@media (min-width: 768px)
+{
+.home-box.modal-dialog
+{
+    width:400px;
+}
+.close-cancel {position: absolute;top: 8px;right: 20px;background-color: transparent;cursor: pointer;z-index: 1;}
+}
+	</style>
+ 

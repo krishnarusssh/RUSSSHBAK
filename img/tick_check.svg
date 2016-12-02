@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-689.000000, -572.000000)">
+            <g id="Group-3" transform="translate(542.000000, 523.000000)">
+                <g id="Group-8" transform="translate(147.000000, 49.000000)">
+                    <path d="M36,17.9999999 C36,27.9397842 27.9397842,36 18,36 C8.0602158,36 4.77484718e-12,27.9397842 4.77484718e-12,17.9999999 C4.77484718e-12,8.06021579 8.0602158,0 18,0 C27.9397842,0 36,8.06021579 36,17.9999999" id="Fill-17" fill="#91DD32"></path>
+                    <g id="Tick" transform="translate(9.000000, 13.000000)" fill="#FFFFFF" stroke="#FFFFFF">
+                        <g id="Group">
+                            <polygon id="Shape" points="5.88461538 9.15384615 1.96153846 5.23076923 0 7.19230769 3.92307692 11.1153846 5.88461538 13.0769231 7.84615385 11.1153846 17 1.96153846 15.0384615 0"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

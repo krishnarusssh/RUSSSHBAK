@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="271px" height="226px" viewBox="0 0 271 226" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>other icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.450221526" y="0.27166057" width="233.685237" height="180.694789" rx="16"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="233.685237" height="180.694789" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="271" height="55.8244062"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="271" height="55.8244062" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4" transform="translate(-162.000000, -309.000000)">
+            <g id="other-icon" transform="translate(162.000000, 309.000000)">
+                <g id="Group-26" transform="translate(18.000000, 44.000000)">
+                    <g id="Group-4">
+                        <g id="Group-9">
+                            <g id="Group-3-Copy-2" transform="translate(0.986726, 0.304625)" stroke-width="16" stroke="#4C4F58" fill="#DD7D46">
+                                <g id="Group-2">
+                                    <g id="box-copy" transform="translate(0.172981, 0.000000)">
+                                        <g id="Group">
+                                            <g id="Group-208">
+                                                <use id="Rectangle-32" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <ellipse id="Oval-2" stroke="#4C4F58" stroke-width="3" fill="#E4E3E3" cx="119.699115" cy="80.8755981" rx="10.7920354" ry="10.8229665"></ellipse>
+                            <ellipse id="Oval-2" stroke="#4C4F58" stroke-width="3" fill="#E4E3E3" cx="155.672566" cy="80.8755981" rx="10.7920354" ry="10.8229665"></ellipse>
+                            <path d="M17.3607309,8.49033812 L85.6256179,9.42685872 C85.6256179,9.42685872 70.8009301,55.8875129 85.6256202,102.22021 C100.45031,148.552906 130.059916,173.386675 130.059916,173.386675 L106.603937,173.386675 L17.577275,173.386675 C17.577275,173.386675 14.229689,173.142611 11.68155,171.473712 C9.13341102,169.804812 9.59950277,166.1234 9.59950277,166.1234 L9.59950277,16.1079548 C9.59950277,16.1079548 9.68437129,13.0255588 12.0098717,10.7430888 C14.3353721,8.46061873 17.3607309,8.49033812 17.3607309,8.49033812 Z" id="Path-6" fill="#F29D54"></path>
+                            <ellipse id="Oval-2" stroke="#4C4F58" stroke-width="3" fill="#E4E3E3" cx="83.7256637" cy="80.8755981" rx="10.7920354" ry="10.8229665"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-7-Copy" stroke-width="16" stroke="#4C4F58" fill="#ED903F">
+                    <g id="Group-2">
+                        <g id="box">
+                            <g id="Group">
+                                <g id="Group-208">
+                                    <use id="Rectangle-115" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <path d="M105.065901,47.8519191 C105.065901,47.8519191 109.013102,36.6481559 114.388468,25.58699 C119.763835,14.525824 125.280028,8.06057158 125.280028,8.06057158 L15.6215854,8.06057157 C15.6215854,8.06057157 8.04824217,6.7990733 8.04824217,13.7513145 C8.04824217,20.7035558 8.04824217,47.8519191 8.04824217,47.8519191 L105.065901,47.8519191 Z" id="Path-7" fill="#F29D54"></path>
+            </g>
+        </g>
+    </g>
+</svg>

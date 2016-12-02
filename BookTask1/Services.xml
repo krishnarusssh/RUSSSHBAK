@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Services>
+  <Category>
+    <TaskNameDescriptionId>1</TaskNameDescriptionId>
+    <Name>Cake</Name>
+    <Active>1</Active>
+    <SPOID>1</SPOID>
+    <OrderNo>1</OrderNo>
+  </Category>
+<Category>
+    <TaskNameDescriptionId>14</TaskNameDescriptionId>
+    <Name>Chocolate</Name>
+    <Active>1</Active>
+    <SPOID>14</SPOID>
+    <OrderNo>14</OrderNo>
+  </Category>
+  <Category>
+    <TaskNameDescriptionId>19</TaskNameDescriptionId>
+    <Name>Cash</Name>
+    <Active>1</Active>
+    <SPOID>19</SPOID>
+    <OrderNo>19</OrderNo>
+  </Category>
+<Category>
+    <TaskNameDescriptionId>20</TaskNameDescriptionId>
+    <Name>Cheque</Name>
+    <Active>1</Active>
+    <SPOID>20</SPOID>
+    <OrderNo>20</OrderNo>
+  </Category>
+<Category>
+    <TaskNameDescriptionId>6</TaskNameDescriptionId>
+    <Name>Document</Name>
+    <Active>1</Active>
+    <SPOID>6</SPOID>
+    <OrderNo>16</OrderNo>
+  </Category>
+<Category>
+    <TaskNameDescriptionId>3</TaskNameDescriptionId>
+    <Name>Food</Name>
+    <Active>1</Active>
+    <SPOID>3</SPOID>
+    <OrderNo>3</OrderNo>
+  </Category>
+<Category>
+    <TaskNameDescriptionId>2</TaskNameDescriptionId>
+    <Name>Flowers</Name>
+    <Active>1</Active>
+    <SPOID>2</SPOID>
+    <OrderNo>2</OrderNo>
+  </Category>
+<Category>
+    <TaskNameDescriptionId>7</TaskNameDescriptionId>
+    <Name>Gift</Name>
+    <Active>1</Active>
+    <SPOID>7</SPOID>
+    <OrderNo>7</OrderNo>
+  </Category>
+<Category>
+    <TaskNameDescriptionId>9</TaskNameDescriptionId>
+    <Name>Garment</Name>
+    <Active>1</Active>
+    <SPOID>9</SPOID>
+    <OrderNo>9</OrderNo>
+  </Category>
+	 <Category>
+  <TaskNameDescriptionId>11</TaskNameDescriptionId>
+    <Name>Laptop</Name>
+    <Active>1</Active>
+    <SPOID>11</SPOID>
+    <OrderNo>11</OrderNo>
+  </Category>
+<Category>
+    <TaskNameDescriptionId>17</TaskNameDescriptionId>
+    <Name>Parcel</Name>
+    <Active>1</Active>
+    <SPOID>17</SPOID>
+    <OrderNo>17</OrderNo>
+  </Category>
+ 
+<Category>
+    <TaskNameDescriptionId>8</TaskNameDescriptionId>
+    <Name>Other Delivery</Name>
+    <Active>1</Active>
+    <SPOID>8</SPOID>
+    <OrderNo>8</OrderNo>
+  </Category>
+</Services>

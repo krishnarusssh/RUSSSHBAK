@@ -1,0 +1,83 @@
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="800"  style="margin-left:auto; margin-right:auto; display:block; font-family:Arial; background:#263751;">
+    <tr>
+        <td align="center" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" width="800">
+                <tr>
+                <td style="padding:15px 0 15px 0; ">
+                   <img src="http://crm.russsh.com/mail_formats/wmailerimages/Russshlogo.png" style="margin-left:auto; margin-right:auto; display:block;" alt="" />
+                   </td>
+                 </tr>
+            </table>
+             <table style="background:#FE4B56;"  border="0" cellpadding="10" cellspacing="10" width="650">
+                <tr>
+                   <td align="center">
+                   <p style="  font-size:25px; font-family: Arial; color:#272727;">TASK CANCELLED</p>
+                   <img src="http://russsh.com/mail_formats/mailerimages/Task-Cancelled.png"   alt=""/>
+                      <br />
+                       <br />
+                  </td>
+                  </tr>
+            </table>
+              <table style="background:#FFF; font-family:Arial; line-height:18px;"  border="0" cellpadding="10" cellspacing="15" width="650">
+              <tr>
+               <td valign="top" align="left">
+                   <h2 style="color:#666; font-size:14px;">Hi $Name$,</h2>
+                   <p style="color:#666; font-size:14px;">Your task with Task ID : <b>$TASKID$</b> has been cancelled successfully</p>
+                    <p style="color:#666; font-size:14px;">Regards,</p>
+                     <h2 style="color:#666; font-size:14px;">Team RUSSSH</h2>
+                     <br />
+                     <span style="color:#f49369;">
+                    <img src="http://crm.russsh.com/mail_formats/wmailerimages/NewsMailericon-1.png" ><a href="mailto:task@russsh.com" style="color:#666;">task@russsh.com</a><br /><br />
+                   <img src="http://crm.russsh.com/mail_formats/wmailerimages/Twitter-Mailer.png">&nbsp;&nbsp; @todoguy<br /><br />
+                   <img src="http://crm.russsh.com/mail_formats/wmailerimages/line.jpg" />
+               </span>
+                    </td>
+               </tr>
+
+               </table>
+                 <table style="background:url(http://crm.russsh.com/mail_formats/wmailerimages/mobile-bg.jpg); background-size:cover;  font-size:11px; color:#676767; margin-top:-28px;"  border="0" cellpadding="15" cellspacing="10" width="650">
+               <tr>
+                <td align="left">
+                <p style="line-height:26px; font-size:18px;"> </p>
+                <br />
+                <a  href="https://play.google.com/store/apps/details?id=com.russsh.admin.russsh&hl=en" target="new">
+                <img src="http://crm.russsh.com/mail_formats/wmailerimages/Google-Play.jpg" width="122" height="42"   alt=""/>
+                </a>
+                  <a href="https://itunes.apple.com/in/app/russsh/id1095205940?mt=8" target="new">
+                  <img src="http://crm.russsh.com/mail_formats/wmailerimages/Dwnld-Iphone.jpg" width="122" height="42"  alt=""/></a>
+                  <br />
+                                  <br />
+                                   <br />
+                   <h4 style="color:#666; ">Share with a friend</h4>
+                     <a href="https://www.facebook.com/Getmypeon" target="new"><img src="http://crm.russsh.com/mail_formats/wmailerimages/FB-1.jpg" alt="" /></a><a href="https://twitter.com/russsh_in"> <img src="http://crm.russsh.com/mail_formats/wmailerimages/T-1.jpg" alt="" /></a> <a href="https://www.linkedin.com/company/my-peon"><img src="http://crm.russsh.com/mail_formats/wmailerimages/Link-1.jpg" alt="" /></a>
+                     <br />
+                      <br />
+                </td>
+                </tr>
+               </table>
+             <table  border="0" cellpadding="5" cellspacing="5" width="650">
+             <tr>
+            <td  colspan="2" align="center">
+            <br />
+             </td>
+             </tr>
+            <tr>
+            <td  colspan="2" align="center" style="color: #435063; ">
+           For any further assistance:
+             </td>
+             </tr>
+             <tr>
+             <td  align="center" style="color:#606672; line-height:24px;">
+             <img style="vertical-align:top;" src="http://crm.russsh.com/mail_formats/wmailerimages/env.png" width="27" height="21"  alt="" /> Helpdesk@russsh.com
+              </td>
+               <td  align="center" style="color: #606672;line-height:24px;">
+              <img style="vertical-align:top;"  src="http://crm.russsh.com/mail_formats/wmailerimages/phone.png" width="27" height="21"  alt="" /> +91 80808 08315
+                </td>
+                </tr> 
+                <tr>
+                <td>&nbsp;</td>
+                </tr>
+            </table>            
+        </td>
+    </tr>
+</table>

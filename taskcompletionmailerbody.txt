@@ -1,0 +1,79 @@
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="800"  style="margin-left:auto; margin-right:auto; display:block; font-family:Calibri;background-color: #FFF;color: #666666;">
+    <tr>
+        <td align="center" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" width="800">
+                <tr>
+                <td style="background:#1b3259;border-top:1px solid #ffaf22;padding:4px 0 3px 0; ">
+                   <img src="http://www.russsh.com/mailerimages/logo.png" style="margin-left:auto; margin-right:auto; display:block;" alt=""/>
+                   </td>
+                 </tr>
+            </table>
+             <table style="background:url(mailerimages/bg-top.jpg); border-bottom:1px solid #F60;"  border="0" cellpadding="2" cellspacing="0" width="800">
+                <tr>
+                   <td  colspan="3" align="center"><h2 style="  font-size: 20px;  font-family: Calibri;color: rgb(255, 175, 34);font-style: italic;
+  line-height: 0.9;">Hi $CUSTOMERNAME$,</h2></td>
+                  </tr>
+                  <tr>
+                   <td  colspan="3" align="center"><p>Your task has been completed for today ( $DATE$) by our executive $EXECUTIVE$</p></td>
+                  </tr>
+                   <tr>
+                   <td width="80px"></td>
+                   <td ><strong>Pickup Time :</strong> $PICKUPTIME$ <br /><strong>Location :</strong> $PICKUPLOCATION$)</td>
+                   <td><strong>Drop Time : </strong> $DROPTIME$, <br /><strong> Location :</strong> $DROPLOCATION$</td>
+                  </tr>
+                   <tr>
+                   <td width="80px"></td>
+                   <td><strong>Service Fee : </strong> Rs.$SERVICEFEE$/- </td>
+                   <td><strong>Waiting Fee :</strong> Rs.$WAITINGFEE$/- </td>
+                  </tr>
+                   <tr>
+                   <td width="80px"></td>
+                   <td><strong>Excess Baggage Fee : </strong> Rs.$EXCESSBAGGAGEFEE$/-</td>
+                   <td><strong>Transport Fee : </strong> Rs.$TRANSPORTFEE$/-</td>
+                  </tr>
+                  <tr>
+                  <td colspan="3">
+                  <div style="background:#CCC;height:1px;"></div>
+                  </td>
+                  </tr>
+                  <tr>
+                   <td width="80px"></td>
+                   <td><strong>Total Fee : </strong> Rs.$TOTALFEE$ /-</td>
+                   <td><strong>Delivery Type :  </strong> $TASKTYPE$</td>
+                  </tr>
+                  <tr>
+                   <td width="80px"></td>
+                   <td  colspan="2" align="left" style="line-height:6px;"><p style="height: 6px">The delivery has been handed over to $DELIVEREDTO$</p>
+<p>If you need any further clarification please call our support no. (+91) 8080 808315</p>
+  <p>Your Personal Assistant : </p></td>
+                  </tr>
+               
+            </table>
+            <table style="background:url(http://www.russsh.com/mailerimages/bottom-bg.jpg); border-bottom:1px solid #F60;"  border="0" cellpadding="0" cellspacing="0" width="800">
+             <tr>
+                   <td width="80px"></td>
+                   <td  colspan="2" align="left">
+                    <h2  style="  font-size: 20px;  font-family: Calibri;color: rgb(255, 175, 34);font-style: italic;
+  line-height: 0.9;">Hello !</h2>
+                    </td>
+                  </tr>
+                    <tr>
+                   <td width="80px"></td>
+                   <td  colspan="1" align="left" valign="top">
+                  Download our android app to schedule a delivery at your<br /> convenience in Mumbai, Thane and Navi Mumbai. <br />
+                 <a href="https://play.google.com/store/apps/details?id=com.russsh.admin.russsh&hl=en" target="new"><img style="padding-top:10px;" src="http://www.russsh.com/mailerimages/google-play.png"  alt=""/></a>
+                   </td>
+                   <td>
+                   <img  src="mailerimages/app-mobile.png" alt=""> 
+                   </td>
+                  </tr>                  
+            </table>
+             <table bgcolor="1b3259"  border="0" cellpadding="5" cellspacing="0" width="800">
+               <tr>
+                   <td  align="center"><a style="color:#FFF; text-decoration:none;" href="http://www.russsh.com/" target="new"  rel="nofollow">www.russsh.com</a></td>
+                   </tr>
+             </table>
+            
+        </td>
+    </tr>
+</table>

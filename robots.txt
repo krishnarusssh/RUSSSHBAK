@@ -1,0 +1,98 @@
+User-agent: *
+Disallow: /AccountActivation/
+Disallow: /App_Code/
+Disallow: /assets/
+Disallow: /Bin/
+Disallow: /BookATaskDemo/
+Disallow: /BookDemo/
+Disallow: /BookTask6/
+Disallow: /ChangePassword/
+Disallow: /contactus_confirmation/
+Disallow: /css1/
+Disallow: /EditAddress/
+Disallow: /EditProfile/
+Disallow: /fonts/
+Disallow: /forgot-password/
+Disallow: /images1/
+Disallow: /img1/
+Disallow: /js1/
+Disallow: /lib1/
+Disallow: /mail_formats/
+Disallow: /message_confirmation/
+Disallow: /OrderCancellation/
+Disallow: /OrderDetails/
+Disallow: /Orders/
+Disallow: /ProcessSocialLogin/
+Disallow: /recoverpassword/
+Disallow: /reserve/
+Disallow: /signin_confirmation/
+Disallow: /signup_confirmation/
+Disallow: /singin_confirmation/
+Disallow: /term-of-use/
+Disallow: /testsignin/
+Disallow: /testsignup/
+Disallow: /VerifyMobileNo/
+Disallow: /viewprofile/
+Disallow: /viewprofiledump/
+Disallow: /Wallet/
+Disallow: /Redirect/
+Disallow: /BookTask_Copy/
+Disallow:/bookwithcopon/
+Disallow:/socialtest.aspx
+Disallow:/googletest.aspx
+Disallow:/taskcompletionmailerbody.txt
+Disallow:/mailtertext.html
+Disallow:/verifyssl.txt
+Disallow:/testglobalsign.txt
+Disallow:/GuestUser.aspx
+Disallow:/BookTaskGuestUser
+Disallow:/app
+Disallow:/BookTaskTest
+Disallow:/PayTM
+Disallow:/payumoney
+Disallow:/mobiqwik
+Disallow:/MobilePaymentHandlers
+Disallow:/signin
+Disallow:/signup
+Disallow:/appdownload
+Allow:/services/same-day-document-delivery
+Allow:/services/grocery-shopping-and-delivery
+Allow:/services/Laptop-computer-hard-drive-usb-delivery
+Allow:/services/cake-delivery
+Allow:/services/cash-cheque-delivery
+Allow:/services/food-delivery
+Allow:/services/clothes-delivery-service
+Allow:/services/parcel-delivery
+Allow:/services/home-errands/food-delivery
+Allow:/about-us/our-story
+Allow:/services/bakery-delivery
+Allow:/services/home-errands/laundry-pick-up-services
+Allow:/BookTask
+Allow:/book-a-service
+Allow:/services/flower-delivery
+Allow:/services/chocolate-delivery
+Allow:/services/home-errands/bread-delivery
+Allow:/services/card-delivery-service
+Allow:/services/on-demand-fashion-services
+Allow:/services/courier-services
+Allow:/services/bulk-delivery
+Allow:/services/Crockery-utensils-jar-delivery
+Allow:/services/home-errands/card-delivery-service
+Allow:/services/home-errands/cake-home-delivery
+Allow:/services/home-errands/cake-delivery
+Allow:/services/personal-assistance-for-individuals/on-demand-fashion-services
+Allow:/services/personal-assistance-for-individuals/flower-delivery
+Allow:/services/personal-assistance-for-individuals/chocolate-delivery
+Allow:/services/personal-assistance-for-individuals/bakery-delivery
+Allow:/services/personal-assistance-for-business/courier-services
+Allow:/services/cash-cheque-delivery
+Allow:/services/food-delivery
+Disallow:/Agree.aspx
+Disallow:/AGR*
+Disallow:/RussshPay_T
+Disallow:/MyProfile_T
+Disallow:/MyDeliveries_T
+Disallow:/MyAddress_T
+Disallow:/ChangePassword_T
+
+

@@ -1,0 +1,188 @@
+﻿
+@media only screen and (max-width: 360px) 
+{
+.side-button
+{
+ 
+  position:absolute;
+  right:0;
+  margin-top:-500px;
+  z-index:-100;
+}
+ .tabs-menu li {
+    
+    line-height: 30px;
+    float: left;
+    margin-right: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    background-color: rgba(54, 76, 109, 0.812);
+    list-style:none;
+     padding:5px;
+     transition:0.8s all ease-in-out;
+     margin-bottom:8px;
+font-size:10px;
+margin-left:35px;
+ 
+}
+.mrl-35
+{
+margin-left:5px;
+}
+
+.tabs-menu li.current {
+    position: relative;
+    z-index: 5;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 8px;
+  background-color: #ee846a;
+  opacity: 0.812;
+   padding:5px;
+   transition:0.8s all ease-in-out;
+margin-left:30px;
+}
+
+}
+.tabs-menu {
+    clear: both;
+    margin-left:35%;
+    margin-top:20px;
+     margin-right:33%;
+ 
+}
+@media only screen and (max-width: 768px) 
+{
+    .tabs-menu 
+    {
+    margin-left:0%;
+    margin-top:20px;
+     margin-right:0%;
+     display:inline;
+
+   }
+
+
+.mrl-35
+{
+margin-left:35px;
+}  
+}
+ .tabs-menu li {
+    
+    line-height: 30px;
+    float: left;
+    margin-right: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    background-color: rgba(54, 76, 109, 0.812);
+    list-style:none;
+     padding:5px;
+     transition:0.8s all ease-in-out;
+     margin-bottom:8px;
+ 
+}
+
+.tabs-menu li.current {
+    position: relative;
+    z-index: 5;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 8px;
+  background-color: #ee846a;
+  opacity: 0.812;
+   padding:5px;
+   transition:0.8s all ease-in-out;
+}
+
+.padding-tb15 {
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+.tabs-menu li a {
+    padding: 10px;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none; 
+}
+
+.tabs-menu .current a {
+    color: #FFF;
+    transition:0.8s all ease-in-out;
+}
+
+.tab {
+    border:0px solid #d4d4d1;
+    background-color: #fff;
+    float: left;
+    margin-bottom: 1px;
+    width: 100%;
+    margin-top:25px;
+}
+
+.tab-content {
+    width: auto;
+    padding: 20px;
+    display: none;
+}
+
+#tab-1 {
+ display: block;   
+}
+.table-head {
+    background:#23385a;
+    color:#FFF;
+}
+table,
+    thead,
+    tr,
+    tbody,
+    th,
+    td {
+        text-align: center;
+      
+    }
+
+.side-button
+{
+ 
+  position: absolute;
+  right:0;
+  top: 280px;
+ 
+  height: 257px;
+  z-index: 42;
+}
+.terms ul {
+    list-style:none;
+    margin-bottom:22px;
+}
+.terms li:first-child{
+    list-style:none;
+    color:#fcaf17;
+    font-weight:bold;
+    margin-left:-12px;
+}
+.terms li {
+    list-style:square;
+    font-size:15px;
+    line-height:30px;
+}
+ .pricing-bg
+    {
+        background: url(../../images1/pricing-bg.jpg);
+        background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+        -moz-background-size: cover;
+        -ms-background-size: cover;
+        min-height: 550px;
+    }
+

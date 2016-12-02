@@ -1,0 +1,66 @@
+
+
+/* accordion style */
+.padding-tb30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.padding-tb15 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.ac-pane { margin-bottom: 5px; background-color:#f5f5f5; color:#373737;}
+
+
+.ac-pane:last-child { margin-bottom: 0; }
+
+.ac-content { display: none; }
+
+.ac-title {
+  border-bottom: 1px solid #CCC;
+  color: #fff;
+  display: block;
+  padding: 12px;
+  background-color:none;
+  color:#373737;
+
+}
+
+#outputbox p{
+  border-bottom: 1px solid #CCC;
+  color: #fff;
+  display: block;
+  padding: 12px;
+  background-color:none;
+  color:#373737;
+  background-color:#ffd800;
+margin-left:10px;
+margin-right:10px;
+
+}
+
+.active .ac-content {
+     background-color:#FFF;
+     border:1px solid #CCC;
+}
+.active .ac-title {
+      background-color:#23385a; color:#FFF;
+}
+.ac-title:hover {
+  background-color:#23385a; color:#FFF;
+}
+
+.ac-title i {
+  float: right;
+  font-size: 20px;
+}
+
+.ac-title i:before { content: "\f055"; }
+
+.active .ac-title i:before { content: "\f056"; }
+
+.ac-content {
+  border: 1px solid #fff;
+  margin-top: -1px;
+  padding: 15px;
+}

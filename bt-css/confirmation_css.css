@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+body {
+	font-family: 'Ubuntu';
+}
+.paddingtb_30 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.paddinglr_70 {
+	padding-left: 70px;padding-right: 70px;
+}
+.text_body h2 {
+	font-family: 'courgette';text-align: center;color: #333;
+}
+.text_body p {
+	font-size: 14px;
+	text-align: center;
+	font-family: 'Ubuntu';
+	color: #666;
+	line-height: 25px;
+}
+.text_body p span {
+	color:#f1723f;font-weight: bold;
+}
+.grey_feedback {
+	background: #f7f7f7;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 230px;
+}
+.feedback_box_overflow {
+	width:40%;position: relative;text-align:center;margin:0 auto;overflow: hidden;height: 150px;
+}
+.feedback_box {
+	border:1px solid #CCC;
+	padding: 20px 35px;
+	text-align: center;
+	background: #FFF;
+	border-radius: 10px;
+	display:inline-block;
+	width: 370px;
+  	margin: 5px;
+}
+.feedback_box p {
+	font-size: 13px;text-align: center;font-family: 'Ubuntu';color: #666;
+}
+.feedback_box button {
+	color: #f1723f;
+	border:1px solid #CCC;
+	/*padding: 9px 9px;*/
+	border-radius: 50%;
+	-webkit-border-radius:50%;
+	-moz-border-radius: 50%;
+	font-size: 11px;
+	background: #FFF;
+	margin-left: 5px;
+    height:37px;
+    width:37px;
+}
+.feedback_box button:focus,.feedback_box button:hover {
+	outline: none;box-shadow: none;text-decoration: none;background: #f1723f;color: #FFF;
+	transition: all 0.5s ease-in-out;border:1px solid #f1723f;
+}
+.feedback_box .check {
+	color:#91dd32;font-size: 25px;line-height: 50px;
+}
+.share_frnd {
+	text-align: center;
+    padding-top: 15px;
+}
+.share_frnd h3 {
+	font-size: 14px;color: #333;
+}
+.share_frnd p {
+	font-size: 12px;color: #999;
+}
+.share_frnd img {
+	padding-left: 5px;
+}
+.btn_task input[type="button"] {
+	background: #f1723f;
+	/*padding:8px 20px;*/
+	font-size: 12px;
+	color: #FFF;
+	text-align: center;
+	border:none;
+	border-radius: 3px;
+	width:200px;
+    height: 30px;
+}
+.btn_task input[type="button"]:hover {
+	background: #f5642a;transition: 0.7s all ease-in-out;
+}
+@media (max-width: 765px) { 
+	.text_body p {
+		font-size: 12px;
+	}
+	.paddingtb_30 {
+		padding-top: 12px;
+		padding-bottom: 12px;
+	}
+	.btn_task input[type="button"] {
+		padding:6px 13px;font-size: 11px;width:auto;
+	}
+	.paddinglr_70 {
+		padding-left: 10px;padding-right: 10px;
+	}
+	.feedback_box {
+		padding: 25px 20px;
+		border-radius: 5px;
+		display:inline-block;
+	  	margin: 0;
+	  	width: 100%;
+	  	margin-bottom: 5px;
+	}
+	.grey_feedback {
+		height: 260px;
+	}
+	.feedback_box_overflow {
+		width:80%;height: 150px;
+	}
+	.confirm_img {
+		width:110px;
+	}
+	.feedback_box button {
+		padding: 4px 6px;
+		width: 35px;
+		height: 35px;
+	}
+}

@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+.paddingtb-25
+{
+	padding-top:25px;
+	padding-bottom:25px;
+}
+.paddingtb-20
+{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.para h2
+{
+	font-family: "Roboto";
+	color:#FFF;
+	font-size:40px;
+}
+.para p
+{
+	font-family:calibri;
+	color:#FFF;
+	font-size:20px;
+}
+.download-btn
+{
+	display: block;
+width: 160px;
+height: 54px;
+background-size: 100% 100%;
+background-position: center;
+border: 1px solid transparent;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+-ms-border-radius: 10px;
+-o-border-radius: 10px;
+border-radius: 10px;
+-webkit-transition: border-color 300ms ease;
+-moz-transition: border-color 300ms ease;
+transition: border-color 300ms ease;
+}
+.mt-20
+{
+	margin-top:20px;
+}
+.hr {
+    height: 1px;
+    background-color: #7E6504;
+}
+.app-link {
+    padding: 14px;
+    background: #1b3259;
+    margin-top: 17px;
+    border-radius: 3px;
+    color: #FFF;
+    font-size: 12px;
+}

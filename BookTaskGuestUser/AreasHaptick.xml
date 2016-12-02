@@ -1,0 +1,783 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+  <AREAS>
+    <Area_ID>75</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Airoli (East)</Area_Name>
+    <Description>Airoli (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>152</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Airoli (West)</Area_Name>
+    <Description>Airoli (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>157</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Altamount Road</Area_Name>
+    <Description>Altamount Road</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>12</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Andheri (East)</Area_Name>
+    <Description>Andheri (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>92</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Andheri (West)</Area_Name>
+    <Description>Andheri (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>16</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Bandra (East)</Area_Name>
+    <Description>Bandra (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>96</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Bandra (West)</Area_Name>
+    <Description>Bandra (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>67</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Belapur CBD (East)</Area_Name>
+    <Description>Belapur CBD (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>144</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Belapur CBD (West)</Area_Name>
+    <Description>Belapur CBD (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>42</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Bhandup (East)</Area_Name>
+    <Description>Bhandup (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>120</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Bhandup (West)</Area_Name>
+    <Description>Bhandup (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>5</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Bhayendar (East)</Area_Name>
+    <Description>Bhayendar (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>85</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Bhayendar (West)</Area_Name>
+    <Description>Bhayendar (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>159</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Bhuleshwar</Area_Name>
+    <Description>Bhuleshwar</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>8</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Borivali (East)</Area_Name>
+    <Description>Borivali (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>88</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Borivali (West)</Area_Name>
+    <Description>Borivali (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>160</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Breach Candy</Area_Name>
+    <Description>Breach Candy</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>31</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Byculla (East)</Area_Name>
+    <Description>Byculla (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>108</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Byculla (West)</Area_Name>
+    <Description>Byculla (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>25</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Charni Road (East)</Area_Name>
+    <Description>Charni Road (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>104</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Charni Road (West)</Area_Name>
+    <Description>Charni Road (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>58</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Chembur (East)</Area_Name>
+    <Description>Chembur (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>135</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Chembur (West)</Area_Name>
+    <Description>Chembur (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>32</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Chinchpokhli (East)</Area_Name>
+    <Description>Chinchpokhli (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>109</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Chinchpokhli (West)</Area_Name>
+    <Description>Chinchpokhli (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>56</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Chunabhatti </Area_Name>
+    <Description>Chunabhatti</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>27</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Churchgate </Area_Name>
+    <Description>Churchgate </Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>80</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Colaba</Area_Name>
+    <Description>Colaba </Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>52</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Cotton Green (East)</Area_Name>
+    <Description>Cotton Green (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>130</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Cotton Green (West)</Area_Name>
+    <Description>Cotton Green (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>28</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>CST </Area_Name>
+    <Description>CST </Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>161</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Cuffe Parade</Area_Name>
+    <Description>Cuffe Parade</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>33</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Currey Road (East)</Area_Name>
+    <Description>Currey Road (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>110</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Currey Road (West)</Area_Name>
+    <Description>Currey Road (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>19</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Dadar (East)</Area_Name>
+    <Description>Dadar (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>112</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Dadar (West)</Area_Name>
+    <Description>Dadar (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>7</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Dahisar (East)</Area_Name>
+    <Description>Dahisar (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>87</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Dahisar (West)</Area_Name>
+    <Description>Dahisar (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>50</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>DockyardRoad (East)</Area_Name>
+    <Description>DockyardRoad (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>128</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>DockyardRoad (West)</Area_Name>
+    <Description>DockyardRoad (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>20</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Elphinstone Road (East)</Area_Name>
+    <Description>Elphinstone Road (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>99</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Elphinstone Road (West)</Area_Name>
+    <Description>Elphinstone Road (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>73</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Ghansoli (East)</Area_Name>
+    <Description>Ghansoli (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>150</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Ghansoli (West)</Area_Name>
+    <Description>Ghansoli (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>10</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Goregaon (East)</Area_Name>
+    <Description>Goregaon (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>90</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Goregaon (West)</Area_Name>
+    <Description>Goregaon (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>59</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Govandi (East)</Area_Name>
+    <Description>Govandi (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>136</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Govandi (West)</Area_Name>
+    <Description>Govandi (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>24</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Grant Road (East)</Area_Name>
+    <Description>Grant Road (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>103</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Grant Road (West)</Area_Name>
+    <Description>Grant Road (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>55</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>GTB Nagar (East)</Area_Name>
+    <Description>GTB Nagar (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>133</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>GTB Nagar (West)</Area_Name>
+    <Description>GTB Nagar (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>11</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Jogeswari (East)</Area_Name>
+    <Description>Jogeswari (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>91</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Jogeswari (West)</Area_Name>
+    <Description>Jogeswari (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>77</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Juhu </Area_Name>
+    <Description>Juhu</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>64</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Juinagar (East)</Area_Name>
+    <Description>Juinagar (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>141</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Juinagar (West)</Area_Name>
+    <Description>Juinagar (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>41</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Kanjur Marg (East)</Area_Name>
+    <Description>Kanjur Marg (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>119</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Kanjur Marg (West)</Area_Name>
+    <Description>Kanjur Marg (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>15</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Khar Road (East)</Area_Name>
+    <Description>Khar Road (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>95</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Khar Road (West)</Area_Name>
+    <Description>Khar Road (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>37</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Kurla (East)</Area_Name>
+    <Description>Kurla (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>115</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Kurla (West)</Area_Name>
+    <Description>Kurla (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>21</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Lower Parel (East)</Area_Name>
+    <Description>Lower Parel (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>100</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Lower Parel (West)</Area_Name>
+    <Description>Lower Parel (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>22</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mahalaxmi (East)</Area_Name>
+    <Description>Mahalaxmi (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>101</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mahalaxmi (West)</Area_Name>
+    <Description>Mahalaxmi (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>17</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mahim (East)</Area_Name>
+    <Description>Mahim (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>97</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mahim (West)</Area_Name>
+    <Description>Mahim (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>146</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Malad (West)</Area_Name>
+    <Description>Malad (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>60</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mankhurd (East)</Area_Name>
+    <Description>Mankhurd (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>137</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mankhurd (West)</Area_Name>
+    <Description>Mankhurd (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>26</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Marine Lines (East)</Area_Name>
+    <Description>Marine Lines (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>105</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Marine Lines (West)</Area_Name>
+    <Description>Marine Lines (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>29</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Masjid (East)</Area_Name>
+    <Description>Masjid (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>106</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Masjid (West)</Area_Name>
+    <Description>Masjid (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>35</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Matunga (East)</Area_Name>
+    <Description>Matunga (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>113</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Matunga (West)</Area_Name>
+    <Description>Matunga (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>18</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Matunga Road (East)</Area_Name>
+    <Description>Matunga Road (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>98</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Matunga Road (West)</Area_Name>
+    <Description>Matunga Road (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>6</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mira Road (East)</Area_Name>
+    <Description>Mira Road (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>86</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mira Road (West)</Area_Name>
+    <Description>Mira Road (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>44</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mulund (East)</Area_Name>
+    <Description>Mulund (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>122</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mulund (West)</Area_Name>
+    <Description>Mulund (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>23</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mumbai Central (East)</Area_Name>
+    <Description>Mumbai Central (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>102</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Mumbai Central (West)</Area_Name>
+    <Description>Mumbai Central (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>43</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Nahur (East)</Area_Name>
+    <Description>Nahur (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>121</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Nahur (West)</Area_Name>
+    <Description>Nahur (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>162</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Nariman Point</Area_Name>
+    <Description>Nariman Point</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>163</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Nepeansea Road</Area_Name>
+    <Description>Nepeansea Road</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>65</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Nerul (East)</Area_Name>
+    <Description>Nerul (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>142</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Nerul (West)</Area_Name>
+    <Description>Nerul (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>154</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Other</Area_Name>
+    <Description>Other</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>34</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Parel (East)</Area_Name>
+    <Description>Parel (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>111</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Parel (West)</Area_Name>
+    <Description>Parel (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>78</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Powai </Area_Name>
+    <Description>Powai</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>74</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Rabale (East)</Area_Name>
+    <Description>Rabale (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>151</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Rabale (West)</Area_Name>
+    <Description>Rabale (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>51</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Reay Road (East)</Area_Name>
+    <Description>Reay Road (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>129</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Reay Road (West)</Area_Name>
+    <Description>Reay Road (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>30</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Sandhurst Road (East)</Area_Name>
+    <Description>Sandhurst Road (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>107</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Sandhurst Road (West)</Area_Name>
+    <Description>Sandhurst Road (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>62</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Sanpada (East)</Area_Name>
+    <Description>Sanpada (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>139</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Sanpada (West)</Area_Name>
+    <Description>Sanpada (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>14</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Santacruz (East)</Area_Name>
+    <Description>Santacruz (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>94</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Santacruz (West)</Area_Name>
+    <Description>Santacruz (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>66</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Seawood Darave (East)</Area_Name>
+    <Description>Seawood Darave (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>143</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Seawood Darave (West)</Area_Name>
+    <Description>Seawood Darave (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>53</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Sewri (East)</Area_Name>
+    <Description>Sewri (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>131</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Sewri (West)</Area_Name>
+    <Description>Sewri (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>36</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Sion (East)</Area_Name>
+    <Description>Sion (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>114</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Sion (West)</Area_Name>
+    <Description>Sion (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>45</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Thane (East)</Area_Name>
+    <Description>Thane (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>123</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Thane (West)</Area_Name>
+    <Description>Thane (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>57</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Tilak Nagar (East)</Area_Name>
+    <Description>Tilak Nagar (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>134</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Tilak Nagar (West)</Area_Name>
+    <Description>Tilak Nagar (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>63</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Turbhe (East)</Area_Name>
+    <Description>Turbhe (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>140</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Turbhe (West)</Area_Name>
+    <Description>Turbhe (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>61</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Vashi (East)</Area_Name>
+    <Description>Vashi (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>138</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Vashi (West)</Area_Name>
+    <Description>Vashi (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>38</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Vidyavihar (East)</Area_Name>
+    <Description>Vidyavihar (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>116</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Vidyavihar (West)</Area_Name>
+    <Description>Vidyavihar (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>40</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Vikhroli (East)</Area_Name>
+    <Description>Vikhroli (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>118</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Vikhroli (West)</Area_Name>
+    <Description>Vikhroli (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>13</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Vile Parle (East)</Area_Name>
+    <Description>Vile Parle (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>93</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Vile Parle (West)</Area_Name>
+    <Description>Vile Parle (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>54</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Wadala Rd. (East)</Area_Name>
+    <Description>Wadal Rd. (East)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>132</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Wadala Rd. (West)</Area_Name>
+    <Description>Wadal Rd. (West)</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>165</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Walkeshwar</Area_Name>
+    <Description>Walkeshwar</Description>
+  </AREAS>
+  <AREAS>
+    <Area_ID>76</Area_ID>
+    <Zone_ID>1</Zone_ID>
+    <Area_Name>Worli </Area_Name>
+    <Description>Worli </Description>
+  </AREAS>
+</ROOT>

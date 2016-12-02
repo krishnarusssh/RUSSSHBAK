@@ -1,0 +1,1 @@
+Dear $CUSTOMERNAME$, your task with Task ID : $TASKID$ has been cancelled successfully. A cancellation fee of Rs. $AMT$ is applicable. https://www.russsh.com/pricing/ T&C Russsh.com

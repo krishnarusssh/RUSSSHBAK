@@ -1,0 +1,240 @@
+@charset "utf-8";
+/* CSS Document */
+.fixed
+{
+	position:fixed;
+	width:177px;
+	z-index:800;
+	bottom:-53px;
+	left:40.50%;
+	cursor:pointer;
+}
+.character
+{
+	display:none;
+}
+.character2
+{
+	display:none;
+}
+.gift-fixed
+{
+	position:absolute;
+	z-index:999;
+	right:24px;
+	bottom:-45px;
+	transform: translate3d(0px, 0px, 0px);
+	transition:0.7s all ease-in;
+	cursor:pointer;
+}
+.gift-fixed:hover
+{
+	transform: translate3d(0px, -1px, 0px);
+	transition:0.6s all ease-in;
+}
+.gift-tap
+{
+	position:absolute;
+	z-index:999;
+	bottom:32px;
+	right:15px;
+	transform: translate3d(0px, -1px, 0px);
+	transition:0.7s all ease-in;
+	cursor:pointer;
+}
+.gift-tap:hover
+{
+	transform: translate3d(0px, -2px, 0px);
+	transition:0.6s all ease-in;
+}
+.box-only
+{	
+    transform: translate3d(0px, 0px, 0px);
+	transition:0.7s all ease-in;
+	z-index:999;
+	position:fixed;
+	bottom:10px;
+	left:53%;
+}
+.box-only:hover
+{	
+    transform: translate3d(0px, -20px, 0px);
+	transition:0.6s all ease-in;
+}
+.tap-open
+{
+  position:absolute;
+  right:26px;
+}
+.bank
+{
+	display:none;
+	position:fixed;
+	right:30px;
+	bottom:30px;
+	z-index:805;
+}
+/*#bank p
+{
+	text-align:center;
+	background:#F0F0F0;
+    border:1px solid #7B7B7B;
+    padding:2px 8px;	
+}*/
+.close-c
+{
+	position:fixed;
+	z-index:999;
+	bottom:148px;
+	right:46.50%;
+	cursor:pointer;
+	color:#777777;
+	font-size:25px;
+}
+/* speech bubble */
+/*p.speech
+{
+  position: absolute;
+  bottom:-170px;
+  right:0;
+  margin-right:-50px;
+  width: 170px;
+  padding:5px;
+  color:#5B5B5B;
+  text-align: center;
+  background-color: #fff;
+  border: 1px solid #CCCCCC;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  -webkit-box-shadow: 2px 2px 3px #CCC;
+  -moz-box-shadow: 2px 2px 3px #CCC;
+  box-shadow: 2px 2px 3px #CCC;
+  z-index:500;
+}*/
+ p.speech
+{
+  position:relative;
+  right:0;
+  margin-right:-20px;
+  bottom:4px;
+  width: auto;
+  font-size:12px;
+  padding:4px;
+  color:#5B5B5B;
+  text-align: center;
+  background-color: #fff;
+  border: 1px solid #CCCCCC;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  -webkit-box-shadow: 2px 2px 3px #CCC;
+  -moz-box-shadow: 2px 2px 3px #CCC;
+  box-shadow: 2px 2px 3px #CCC;
+  z-index:500;
+}
+ p.speech:before {content: ' ';position: absolute;width: 0;height: 0;right: 55px;top: 28px;border: 8px solid;border-color: #9C9C9C transparent transparent #9C9C9C;}
+ p.speech:after {
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    right: 55px;
+    top: 28px;
+    border: 7px solid;
+    border-color: #fff transparent transparent #fff;
+}
+.pulse2 {
+	-webkit-animation: pulse2 1s linear infinite;
+	-moz-animation: pulse2 1s linear infinite;
+	-ms-animation: pulse2 1s linear infinite;
+	animation: pulse2 1s linear infinite;
+}
+
+@keyframes "pulse2" {
+ 0% {
+    -webkit-transform: scale(1);
+   	-moz-transform: scale(1);
+   	-o-transform: scale(1);
+   	-ms-transform: scale(1);
+   	transform: scale(1);
+ }
+ 50% {
+    -webkit-transform: scale(0.8);
+   	-moz-transform: scale(0.8);
+   	-o-transform: scale(0.8);
+   	-ms-transform: scale(0.8);
+   	transform: scale(0.8);
+ }
+ 100% {
+    -webkit-transform: scale(1);
+   	-moz-transform: scale(1);
+   	-o-transform: scale(1);
+   	-ms-transform: scale(1);
+   	transform: scale(1);
+ }
+
+}
+
+@-moz-keyframes pulse2 {
+ 0% {
+   -moz-transform: scale(1.1);
+   transform: scale(1.1);
+ }
+ 50% {
+   -moz-transform: scale(0.8);
+   transform: scale(0.8);
+ }
+ 100% {
+   -moz-transform: scale(1);
+   transform: scale(1);
+ }
+
+}
+
+@-webkit-keyframes "pulse2" {
+ 0% {
+   -webkit-transform: scale(1.1);
+   transform: scale(1.1);
+ }
+ 50% {
+   -webkit-transform: scale(0.8);
+   transform: scale(0.8);
+ }
+ 100% {
+   -webkit-transform: scale(1);
+   transform: scale(1);
+ }
+}
+@media (max-width: 768px)
+{
+.gift-text
+{ 
+  left:25%;
+}
+.fixed
+{
+    position:fixed;
+	left:23%;
+}
+.box-only
+{	
+	position:fixed;
+	left:70%;
+}
+.close-c
+{
+	position:fixed;
+	z-index:999;
+	bottom:145px;
+	right:25%;
+	cursor:pointer;
+	color:#777777;
+	font-size:25px;
+}
+p.speech
+{
+  right:0;
+  margin-right:-30px;
+}
+}

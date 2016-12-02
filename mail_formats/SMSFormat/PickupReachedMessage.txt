@@ -1,0 +1,1 @@
+﻿Hi $CUSTOMERNAME$, Our executive $ERNAME$ has reached the pickup point.

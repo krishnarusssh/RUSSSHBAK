@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="57px" height="56px" viewBox="0 0 57 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 198</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M29,30.9995132 C29,29.8952125 29.8967149,29 31.0039405,29 L48.5022787,29 C49.6090244,29 51.1217815,29.6453953 51.8912716,30.4521782 L54.1412634,32.8112147 C54.9062067,33.6132305 55.5263158,35.1522716 55.5263158,36.2625041 L55.5263158,52.3478275 C55.5263158,53.4519062 54.628538,54.3469388 53.5325308,54.3469388 L30.993785,54.3469388 C29.892648,54.3469388 29,53.4448278 29,52.3474256 L29,30.9995132 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26.5263158" height="25.3469388" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M36.3936575,40.5407864 C34.8980264,47.0253209 37.6845703,52.3427734 37.6845703,52.3427734 L31,52.3427734 L31,31 L42.0893555,31 C42.0893555,31 37.8892887,34.056252 36.3936575,40.5407864 Z" id="path-3"></path>
+        <rect id="path-4" x="35" y="29" width="9.21052632" height="8.44897959" rx="1"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.21052632" height="8.44897959" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <rect id="path-6" x="35" y="44" width="16.5789474" height="9.55102041" rx="1"></rect>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16.5789474" height="9.55102041" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <path d="M36,45 L42.5378418,45 C42.5378418,45 41.4172363,46.7221381 40.8864618,48.2799546 C40.3556872,49.837771 40.8864617,52.5285645 40.8864617,52.5285645 L36,52.5285645 L36,45 Z" id="path-8"></path>
+        <rect id="path-9" x="40" y="32" width="1.47368421" height="3.30612245" rx="0.736842105"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1.47368421" height="3.30612245" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-198" transform="translate(1.000000, 1.000000)">
+            <path d="M25.0526316,49.9591837 C38.8888179,49.9591837 50.1052632,38.7754395 50.1052632,24.9795918 C50.1052632,11.1837442 38.8888179,0 25.0526316,0 C11.2164452,0 0,11.1837442 0,24.9795918 C0,38.7754395 11.2164452,49.9591837 25.0526316,49.9591837 Z" id="Oval-158" stroke="#4C4F58" stroke-width="2" fill="#EBF2FA"></path>
+            <path d="M14.8215332,46.7666016 C15.1767663,46.9354958 16.9604492,47.6462402 16.9604492,47.6462402 C16.9604492,47.6462402 9.71655087,33.208901 13.4024979,20.751704 C17.088445,8.29450696 30.3601066,1.60278319 30.3601066,1.60278319 C30.3601066,1.60278319 27.3811077,1 25.1623527,1 C11.9874547,1 1,11.8227413 1,24.9592285 C1,34.4354032 6.77889768,42.9427611 14.8215332,46.7666016 Z" id="Oval-158-Copy" fill="#B4D4F9"></path>
+            <path d="M24.8994628,24.5665733 C24.6693154,24.5665733 24.439168,24.478579 24.2629614,24.3043862 C23.9123462,23.9577964 23.9123462,23.3849356 24.2629614,23.0347542 L35.0511205,12.2599423 C35.3999376,11.9133526 35.9717101,11.9133526 36.3223252,12.2599423 C36.6711424,12.6101237 36.6711424,13.1829846 36.3223252,13.5295743 L25.5341661,24.3043862 C25.3597576,24.478579 25.1296102,24.5665733 24.8994628,24.5665733 L24.8994628,24.5665733 Z" id="Shape" fill="#4C4F58"></path>
+            <path d="M24.2935423,25.1791674 C24.0633949,25.1791674 23.8332475,25.0911731 23.6570409,24.9169803 L18.2629614,19.5295743 C17.9123462,19.1829846 17.9123462,18.6101237 18.2629614,18.2599423 C18.6135765,17.9133526 19.183551,17.9133526 19.5341661,18.2599423 L24.9282457,23.6473483 C25.2788609,23.9975297 25.2788609,24.5703905 24.9282457,24.9169803 C24.7538371,25.0911731 24.5236897,25.1791674 24.2935423,25.1791674 L24.2935423,25.1791674 Z" id="Shape" fill="#4C4F58"></path>
+            <use id="Rectangle-681" stroke="#4C4F58" mask="url(#mask-2)" stroke-width="4" fill="#FF6261" xlink:href="#path-1"></use>
+            <use id="Rectangle-681-Copy" fill="#EF4545" xlink:href="#path-3"></use>
+            <use id="Rectangle-682" stroke="#4C4F58" mask="url(#mask-5)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-4"></use>
+            <use id="Rectangle-683" stroke="#4C4F58" mask="url(#mask-7)" stroke-width="2" fill="#FFC86B" xlink:href="#path-6"></use>
+            <use id="Rectangle-683-Copy" fill="#E4991A" xlink:href="#path-8"></use>
+            <use id="Rectangle-685" stroke="#4C4F58" mask="url(#mask-10)" stroke-width="2" fill="#FFC86B" xlink:href="#path-9"></use>
+        </g>
+    </g>
+</svg>

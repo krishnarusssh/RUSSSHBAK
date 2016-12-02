@@ -1,0 +1,1 @@
+﻿Hi $CUSTOMERNAME$, Your pickup has been done by $ERNAME$

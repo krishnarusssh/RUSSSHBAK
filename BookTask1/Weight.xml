@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Weights>
+  <Weight>
+    <WeightID>-1</WeightID>
+    <WeightText>Select weight</WeightText>
+  </Weight>
+  <Weight>
+    <WeightID>0</WeightID>
+    <WeightText>0-5 Kg.</WeightText>
+  </Weight>
+  <Weight>
+    <WeightID>100</WeightID>
+    <WeightText>5-10 Kg.</WeightText>
+  </Weight>
+  <Weight>
+    <WeightID>200</WeightID>
+    <WeightText>10-15 Kg.</WeightText>
+  </Weight>
+  <Weight>
+    <WeightID>300</WeightID>
+    <WeightText>15-20 Kg.</WeightText>
+  </Weight>
+  <Weight>
+    <WeightID>400</WeightID>
+    <WeightText>20-25 Kg.</WeightText>
+  </Weight>
+  <Weight>
+    <WeightID>500</WeightID>
+    <WeightText>25-30 Kg.</WeightText>
+  </Weight>
+</Weights>

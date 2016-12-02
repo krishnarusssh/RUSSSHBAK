@@ -1,0 +1,2 @@
+Hi $CUSTOMERNAME$,Your One Time Password is $OTP$ 
+Please enter this OTP on the Russsh.com website and follow the on-screen instructions.

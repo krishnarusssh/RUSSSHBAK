@@ -1,0 +1,1 @@
+﻿Dear $CUSTOMERNAME$, Your task No. $TASKID$ has been confirmed for $DATE$ Pickup from $PICKAREA$ at $PICKTIME$ DELIVERY AT $DROPAREA$ AT $DROPTIME$

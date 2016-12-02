@@ -1,0 +1,1 @@
+﻿Dear $CUSTOMERNAME$, Thank you for booking your task with Russsh.com You will receive a confirmation within the next 20 mins. Your TASK ID is : $TASKID$.

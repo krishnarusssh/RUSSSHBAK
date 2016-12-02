@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="95px" height="141px" viewBox="0 0 95 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Chocolate Delivery</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="7.71667314" y="33.4422901" width="25.2545667" height="16.721145"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25.2545667" height="16.721145" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="32.9712398" y="33.4422901" width="25.2545667" height="16.721145"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25.2545667" height="16.721145" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="7.71667314" y="16.721145" width="25.2545667" height="16.721145"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25.2545667" height="16.721145" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="32.9712398" y="16.721145" width="25.2545667" height="16.721145"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25.2545667" height="16.721145" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="7.71667314" y="0" width="25.2545667" height="16.721145"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25.2545667" height="16.721145" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="32.9712398" y="0" width="25.2545667" height="16.721145"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25.2545667" height="16.721145" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <polygon id="path-13" points="10.0618661 2.2782697 30.6322801 2.2782697 30.6322801 14.4335193 10.0618661 14.4335191"></polygon>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.570414" height="12.1552496" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <polygon id="path-15" points="35.3135663 2.34655761 55.8708467 2.34655761 55.8708467 14.4377171 35.3135663 14.4377171"></polygon>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.5572804" height="12.0911595" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <polygon id="path-17" points="10.0170163 19.1015863 30.6788072 19.1015863 30.6788072 31.1539841 10.0170163 31.1539841"></polygon>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.6617909" height="12.0523978" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <rect id="path-19" x="35.2902332" y="19.0367968" width="20.6508921" height="12.0865418"></rect>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.6508921" height="12.0865418" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <polygon id="path-21" points="9.99088885 35.7902862 30.6951537 35.7902862 30.6951537 47.8800465 9.99088885 47.8800465"></polygon>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.7042648" height="12.0897604" fill="white">
+            <use xlink:href="#path-21"></use>
+        </mask>
+        <polygon id="path-23" points="35.3118897 35.7900063 55.9215647 35.7900063 55.9215647 47.7661401 35.3118897 47.7661401"></polygon>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.609675" height="11.9761337" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+        <path d="M4.20909444,50.5754603 C4.20909444,48.073292 6.72451477,48.073292 6.72451477,48.073292 L59.3231237,48.073292 C59.3231237,48.073292 61.7333852,48.073292 61.7333852,50.508276 L61.7333852,117.74473 L4.20909444,117.74473 L4.20909444,50.5754603 Z" id="path-25"></path>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="57.5242907" height="69.6714377" fill="white">
+            <use xlink:href="#path-25"></use>
+        </mask>
+        <path d="M2.73348343,1.84511318 C3.16100444,0.826085309 4.39886736,0 5.51184275,0 L59.7291211,0 C60.8360456,0 62.0825287,0.832209356 62.5074804,1.84511318 L64.4668686,6.51545934 C64.8943896,7.53448722 64.3435251,8.36057252 63.2348865,8.36057252 L2.00607732,8.36057252 C0.898151408,8.36057252 0.349143531,7.52836317 0.774095276,6.51545934 L2.73348343,1.84511318 Z" id="path-27"></path>
+        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="63.9813109" height="8.36057252" fill="white">
+            <use xlink:href="#path-27"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4-Copy" transform="translate(-250.000000, -351.000000)">
+            <g id="Chocolate-Delivery" transform="translate(250.000000, 351.000000)">
+                <g id="Group-161-Copy">
+                    <g id="Group-137-Copy">
+                        <use id="Rectangle-347" stroke="#563D24" mask="url(#mask-2)" stroke-width="6" fill="#7C5837" xlink:href="#path-1"></use>
+                        <use id="Rectangle-347-Copy" stroke="#563D24" mask="url(#mask-4)" stroke-width="6" fill="#7C5837" xlink:href="#path-3"></use>
+                        <use id="Rectangle-347-Copy-3" stroke="#563D24" mask="url(#mask-6)" stroke-width="6" fill="#7C5837" xlink:href="#path-5"></use>
+                        <use id="Rectangle-347-Copy-2" stroke="#563D24" mask="url(#mask-8)" stroke-width="6" fill="#7C5837" xlink:href="#path-7"></use>
+                        <use id="Rectangle-347-Copy-5" stroke="#563C24" mask="url(#mask-10)" stroke-width="6" fill="#7C5837" xlink:href="#path-9"></use>
+                        <use id="Rectangle-347-Copy-4" stroke="#563D24" mask="url(#mask-12)" stroke-width="6" fill="#7C5837" xlink:href="#path-11"></use>
+                        <use id="Rectangle-353" stroke="#341F0A" mask="url(#mask-14)" stroke-width="2" xlink:href="#path-13"></use>
+                        <use id="Rectangle-353-Copy" stroke="#341F0A" mask="url(#mask-16)" stroke-width="2" xlink:href="#path-15"></use>
+                        <use id="Rectangle-353-Copy-3" stroke="#341F0A" mask="url(#mask-18)" stroke-width="2" xlink:href="#path-17"></use>
+                        <use id="Rectangle-353-Copy-2" stroke="#341F0A" mask="url(#mask-20)" stroke-width="2" xlink:href="#path-19"></use>
+                        <use id="Rectangle-353-Copy-5" stroke="#341F0A" mask="url(#mask-22)" stroke-width="2" xlink:href="#path-21"></use>
+                        <use id="Rectangle-353-Copy-4" stroke="#341F0A" mask="url(#mask-24)" stroke-width="2" xlink:href="#path-23"></use>
+                        <use id="Rectangle-345" stroke="#4C4F58" mask="url(#mask-26)" stroke-width="6" fill="#70CBFF" xlink:href="#path-25"></use>
+                        <g id="Group-136" transform="translate(0.000000, 115.204960)" stroke="#4C4F58" stroke-width="4" fill="#70CBFF">
+                            <use id="Rectangle-346" mask="url(#mask-28)" xlink:href="#path-27"></use>
+                        </g>
+                    </g>
+                    <path d="M48.1752944,51.0195313 C48.1752944,51.0195313 51.1639919,66.1452458 40.0786839,88.2727706 C28.9933758,110.400295 14.4932861,114.72937 14.4932861,114.72937 L58.8317871,114.72937 L58.6742835,51.0195313 L48.1752944,51.0195313 Z" id="Path-1255" fill="#49A3D7"></path>
+                    <path d="M54.7571463,3.51081067 C54.7571463,3.51081067 53.8703496,7.11677663 47.7616937,9.84199636 C41.6530379,12.5672161 36.5584629,13.2733244 36.5584629,13.2733244 L54.7345464,13.2733244 L54.7571463,3.51081067 Z" id="Path-1352" fill="#B98658"></path>
+                    <path d="M54.7571463,20.2322551 C54.7571463,20.2322551 53.8703496,23.1655571 47.7616937,25.8907768 C41.6530379,28.6159966 36.4155303,29.9678315 36.4155303,29.9678315 L54.7571463,29.9678315 L54.7571463,20.2322551 Z" id="Path-1352-Copy" fill="#B98658"></path>
+                    <path d="M54.7571463,36.9787479 C54.7571463,36.9787479 53.8703496,39.2143376 47.7616937,41.9395573 C41.6530379,44.6647771 36.4305501,46.6161603 36.4305501,46.6161603 L54.7571463,46.6161603 L54.7571463,36.9787479 Z" id="Path-1352-Copy-2" fill="#B98658"></path>
+                    <path d="M29.5764234,3.51081067 C29.5764234,3.51081067 28.6896267,7.11677663 22.5809709,9.84199636 C16.472315,12.5672161 11.37774,13.2733244 11.37774,13.2733244 L29.5538235,13.2733244 L29.5764234,3.51081067 Z" id="Path-1352-Copy-5" fill="#B98658"></path>
+                    <path d="M29.5764234,20.2322551 C29.5764234,20.2322551 28.6896267,23.1655571 22.5809709,25.8907768 C16.472315,28.6159966 11.2348074,29.9678315 11.2348074,29.9678315 L29.5764234,29.9678315 L29.5764234,20.2322551 Z" id="Path-1352-Copy-4" fill="#B98658"></path>
+                    <path d="M29.5764234,36.9787479 C29.5764234,36.9787479 28.6896267,39.2143376 22.5809709,41.9395573 C16.472315,44.6647771 11.2498272,46.6161603 11.2498272,46.6161603 L29.5764234,46.6161603 L29.5764234,36.9787479 Z" id="Path-1352-Copy-3" fill="#B98658"></path>
+                    <g id="Group-151-Copy" transform="translate(62.499344, 107.969634) rotate(75.000000) translate(-62.499344, -107.969634) translate(40.999344, 89.969634)">
+                        <polygon id="Path-1366" fill="#5D2C1E" points="17.0232263 35.8512589 42.1922543 18.4532308 42.1922541 16.1423537 17.619548 32.5336965"></polygon>
+                        <polygon id="Path-1367" fill="#733924" points="17.7728501 32.561608 0.188951405 15.8979246 0.188951405 19.7910806 17.0352212 35.8285145"></polygon>
+                        <polygon id="Path-1368" fill="#8B503E" points="0.176430529 15.9036615 6.65920905 10.0664851 19.1785676 21.0681664 17.7777471 32.5720685"></polygon>
+                        <polygon id="Path-1369" fill="#441702" points="19.1687678 21.0757217 37.012469 10.0649632 42.2006648 16.1551525 17.7588673 32.5833606"></polygon>
+                        <polygon id="Path-1370" fill="#733A29" points="6.62251212 10.1060536 25.2242537 0.124413812 37.0299223 10.106054 19.2118686 21.110412"></polygon>
+                    </g>
+                    <g id="Group-151" transform="translate(52.650602, 104.317073)">
+                        <polygon id="Path-1366" fill="#442F23" points="17.0232263 35.8512589 42.1922543 18.4532308 42.1922541 16.1423537 17.619548 32.5336965"></polygon>
+                        <polygon id="Path-1367" fill="#53392A" points="17.7728501 32.561608 0.188951405 15.8979246 0.188951405 19.7910806 17.0352212 35.8285145"></polygon>
+                        <polygon id="Path-1368" fill="#725033" points="0.176430529 15.9036615 6.65920905 10.0664851 19.1785676 21.0681664 17.768908 32.6992775"></polygon>
+                        <polygon id="Path-1369" fill="#8D643F" points="19.1374556 21.0430345 37.012469 10.0649632 42.2006648 16.1551525 17.7588673 32.5833606"></polygon>
+                        <polygon id="Path-1370" fill="#B98658" points="6.62251212 10.1060536 25.2242537 0.124413812 37.0299223 10.106054 19.2118686 21.110412"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+.not-found
+{
+	padding-top:45px;
+}
+.not-found h2
+{
+	font-size:102px;
+	color:#666666;	
+	font-weight:bold;
+}
+.not-found p
+{
+	font-size:22px;
+	color:#999;
+	line-height:30px;
+}
+.not-found p.md
+{
+	font-size:14px;
+}
+.not-found ul
+{
+	list-style:none;
+	margin:0;
+	padding:0;	
+}
+.not-found ul li a
+{
+	color:#f98463;
+	line-height:22px;
+}
+.error-img
+{
+	margin-top:120px;
+}

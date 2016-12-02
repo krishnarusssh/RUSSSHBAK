@@ -1,0 +1,152 @@
+      
+        
+   
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="800"  style="margin-left:auto; margin-right:auto; display:block; font-family:Arial; background:#263751;">
+    <tr>
+        <td align="center" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" width="800">
+                <tr>
+                <td style="padding:15px 0 15px 0; ">
+                   <img src="http://russsh.com/mail_formats/mailerimages/Russshlogo.png" style="margin-left:auto; margin-right:auto; display:block;" alt="" />
+                   </td>
+                 </tr>
+            </table>
+             <table style="background:#f0f0f0;"  border="0" cellpadding="5" cellspacing="10" width="650">
+                <tr>
+                   <td align="left" width="120">
+                   <h2 style="  font-size: 28px;  font-family: Arial; color:#000;">
+                   <img src="http://russsh.com/mail_formats/mailerimages/rupee.png" width="17" height="23"  alt=""/>
+                   $TOTAL$</h2>
+                  </td>
+                  <td width="30" align="left"><span style="padding:3px 5px; font-size:9px; color:#FFF; background:#93c74b; border-radius:6px;">COMPLETED</span></td>
+                   <td  align="right">
+                    <p style="color:#999999;font-size:14px;">$DATE$</p>
+                    <p style="color:#666; line-height:0.2; font-size:13px;">Thanks for choosing Russsh , $CNAME$</p>
+                  </td>
+                  </tr>
+            </table>
+              <table style="background:#FFF;"  border="0" cellpadding="15" cellspacing="15" width="650">
+              <tr>
+                   <td valign="top" width="30%" align="left" >
+                      <div ><!--<iframe style="width: 260px; height: 180px; border:0;" scrolling="no" src="https://www.russsh.com/mail_formats/MainMap1.htm?s=$PAREA$&d=$DAREA$" ></iframe>--> 
+                        <img src="https://maps.googleapis.com/maps/api/staticmap?size=260x180&maptype=roadmap&markers=color:green%7Clabel:Source%7C$PAREA$&markers=color:red%7Clabel:Source%7C$DAREA$&path=color:0x0000ff80|weight:5|$PAREA$|$DAREA$&key=AIzaSyCrB9n3LnOWgQy3dUapyuZY0jCx0MadqiI" alt="map"  /></div>
+                   <table style="background:#FFF; font-size:14px; border:1px solid #E4E4E4; color:#999; margin-top:-5px;" border="0" cellpadding="10" cellspacing="0" width="260">
+                   <tr>
+                     <th rowspan="3" align="right"><img src="http://russsh.com/mail_formats/mailerimages/location-arrow.png" width="16" height="100"  alt=""/></th>
+                   </tr>
+                   <tr>
+                    <td valign="top"  align="left"><h3 style="color:#666666; line-height:0.1;">$PTIME$</h3><p style="line-height:0.1;">$PAREA$</p></td>
+                    <td>&nbsp;</td>
+                   </tr>
+                    <tr>
+                    <td   align="left"><h3 style="color:#666666; line-height:0.4;">$DTIME$</h3><p style="line-height:0.1;">$DAREA$</p> </td>
+                    <td>&nbsp;</td>
+                   </tr>             
+                  </table>
+                   <table style="background:#f2f2f2; font-family: Arial; font-size:14px; border:1px solid #E4E4E4; color:#999; margin-top:-5px;" border="0" cellpadding="10" cellspacing="5" width="260">
+                      <tr>
+                    <td align="left"><p style="line-height:0.1; font-size:11px;">KILOMETERS</p><p style="line-height:0.3;color:#666666;" id="dvDistance"></p> </td>
+                    <td align="left"><p style=" line-height:0.1; font-size:11px;">DELIVERY TIME</p><p style="line-height:0.3;color:#666666;" id="dvDuration"><p></td>
+                   </tr>   
+                   </table>
+                   </td>
+                   <td width="70%" valign="top" align="left">
+                   <p style="color:#565656; line-height:0.1; font-size:12px;">SUMMARY OF YOUR ORDER</p>
+                    <table style="background:#FFF; font-size:14px; color:#999;"  border="0" cellpadding="4" cellspacing="0" width="280">
+                     <tr>
+                     <td align="left">Item Delivered</td>
+                    <td align="right" style="color:#666;">$CAT$</td>
+                   </tr>
+                    <tr>
+                   <td align="left">Delivery Type</td>
+                   <td align="right"  style="color:#666;">$TTYPE$</td>
+                   </tr>
+                     <tr>
+                   <td colspan="2" ><h2 style="border:0.5px solid #f5f5f5;"></h2></td>
+                   </tr>
+                    <tr>
+                   <td align="left">Service Fee</td>
+                   <td align="right"  style="color:#666;">$FEE$</td>
+                   </tr>
+                    <tr>
+                   <td align="left">Waiting Fee</td>
+                   <td align="right"  style="color:#666;">$WFEE$</td>
+                   </tr>
+                    <tr>
+                   <td align="left">Excess Baggage Fee</td>
+                   <td align="right"  style="color:#666;">$BFEE$</td>
+                   </tr>
+                    <tr>
+                   <td align="left">Transport Fee</td>
+                   <td align="right"  style="color:#666;">$TFEE$</td>
+                   </tr>
+                   <tr>
+                   <td colspan="2"><p style="border:0.5px solid #F3F3F3;"></p></td>
+                   </tr>
+                   <tr>
+                   <td align="left" style="color:#676566; font-size:16px;"><img src="http://russsh.com/mail_formats/mailerimages/Cash.jpg" width="46" height="18"  alt=""/> Cash</td>
+                   <td align="right">
+                    <h2 style="  font-size:18px;  font-family: Arial; color:#000; line-height:0.5;">
+                   <img src="http://russsh.com/mail_formats/mailerimages/rupee.png" width="11" height="17"  alt=""/>
+                   $TOTAL$</h2></td>
+                   </tr>
+                   <tr>
+                   <td colspan="2"><p style="border:0.5px solid #F3F3F3;"></p></td>
+                   </tr>
+                    <tr><td colspan="2" align="center" style="font-size:12px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</td>
+                   </tr>
+                   </table>
+                  </td>
+               </tr>
+               <tr>
+               <td colspan="2">
+               <table style="background:#FFF; font-size:14px; color:#999;"  border="0" cellpadding="5" cellspacing="0" width="585">
+                <tr>
+                <td colspan="2" valign="top"><p style="border:0.5px solid #F3F3F3;"></p></td>
+                </tr>
+                 <tr>
+               	<td valign="top">
+               <img src="http://russsh.com/mail_formats/mailerimages/deliveryboy.jpg" width="63" height="63" alt=""> <p style="font-size:12px; text-align:center; margin-left:15px; margin-top:-42px;">Your Parcel Delivered By $ENAME$.</p>
+                </td>
+                 <td  align="right" ><span style="font-size:11px;">RATE YOUR DELIVERY BOY</span><br /><a href="#"><img src="http://russsh.com/mail_formats/mailerimages/Star.jpg" width="84" height="16"  alt=""/></a></td>
+                </tr>
+                 <tr>
+                  <td colspan="2" valign="top" align="left"><p style="border:0.5px solid #F3F3F3; "></p></td>
+                </tr>
+               </table>
+               </td>
+               </tr>
+               </table>
+                <table bgcolor="#e39936"  border="0" cellpadding="45" cellspacing="10" width="650">
+               <tr>
+                <td align="center">
+                 <img style="vertical-align:center;"  src="http://russsh.com/mail_formats/mailerimages/Image_quit.png" alt="" />                
+                </td>
+                </tr>
+               </table>
+             <table  border="0" cellpadding="5" cellspacing="5" width="650">
+             <tr>
+            <td  colspan="2" align="center">
+            <br />
+             </td>
+             </tr>
+            <tr>
+            <td  colspan="2" align="center" style="color: #435063; ">
+           For any further assistance:
+             </td>
+             </tr>
+             <tr>
+             <td  align="center" style="color:#606672; line-height:24px;">
+             <img style="vertical-align:top;" src="http://russsh.com/mail_formats/mailerimages/env.png" width="27" height="21"  alt="" /> Helpdesk@russsh.com
+              </td>
+               <td  align="center" style="color: #606672;line-height:24px;">
+              <img style="vertical-align:top;"  src="http://russsh.com/mail_formats/mailerimages/phone.png" width="27" height="21"  alt="" /> +91 80808 08315
+                </td>
+                </tr> 
+                <tr>
+                <td>&nbsp;</td>
+                </tr>
+            </table>            
+        </td>
+    </tr>
+</table>

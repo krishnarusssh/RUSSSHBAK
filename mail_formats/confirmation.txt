@@ -1,0 +1,50 @@
+﻿<table style="width:100%; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+        <tr>
+            <td align="left" style="padding:10px;"><img src="http://russsh.com/images1/mailer_logo.png" /></td>
+        </tr>
+        <tr>
+            <td style="padding-top: 5px; padding-bottom: 5px">Hi <strong>$USERNAME$</strong>,&nbsp; </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 10px; padding-bottom: 10px">You have successfully set up your <a href="http://www.russsh.com">RUSSSH</a> account!</td>
+        </tr>
+        <tr>
+            <td>Login details are as follows:</td>
+        </tr>
+        <tr>
+            <td>Login ID/Username: <strong>$LOGINID$</strong></td>
+        </tr>
+        <tr>
+            <td>Password&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <strong>$PASSWORD$</strong></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td align="left" style="padding-top: 10px; padding-bottom: 10px"><a href="http://russsh.com/signin" style="
+	-webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #031826;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;">Login to your account</a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Team RUSSSH</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td align="center" style="border-top-style: solid; border-width: 1px; border-color: #FF5050; padding-top: 10px;"><a href="http://russsh.com">Terms of Condition</a> | <a href="http://russsh.com">Privacy Policy</a></td>
+        </tr>
+        <tr>
+            <td align="center">If you have any question you can contact us at support@russsh.com</td>
+        </tr>
+    </table>

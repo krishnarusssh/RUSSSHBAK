@@ -1,0 +1,135 @@
+﻿<script type="text/javascript">
+
+    function getCook(cookiename) {
+        // Get name followed by anything except a semicolon
+      
+        var cookiestring = RegExp("" + cookiename + "[^;]+").exec(document.cookie);
+        // Return everything after the equal sign
+        return unescape(!!cookiestring ? cookiestring.toString().replace(/^[^=]+./, "") : "");
+    }
+    var cookieValue = getCook('LOGINNAME');
+   
+    if (cookieValue!= "") {
+        document.getElementById("namelink").innerHTML = "Hello " + cookieValue + " <span id='arrowplace' class='glyphicon glyphicon-chevron-down' aria-hidden='true' onclick='OpenCloseMenu()'></span>";
+        document.getElementById("namelink").style.display = 'block';
+        document.getElementById("floatingmenu").style.display = 'block';
+        document.getElementById("loginsignuplabel").style.display = 'none';
+        
+    }
+    else {
+        document.getElementById("namelink").innerHTML = "Hello Guest <span id='arrowplace' class='glyphicon glyphicon-chevron-down' aria-hidden='true' onclick='OpenCloseMenu()'></span>";
+        document.getElementById("namelink").style.display = 'none';
+        document.getElementById("floatingmenu").style.display = 'none';
+        document.getElementById("loginsignuplabel").style.display = 'block';
+    }
+    
+   
+    function OpenMenu() {
+        document.getElementById("floatingmenu").style.display = 'block';
+        document.getElementById("arrowplace").className = "glyphicon glyphicon-chevron-up";
+
+    }
+    function CloseMenu() {
+        document.getElementById("floatingmenu").style.display = 'none';
+        document.getElementById("arrowplace").className = "glyphicon glyphicon-chevron-down";
+
+    }
+    function OpenCloseMenu() {
+        if (document.getElementById("floatingmenu").style.display == 'none') {
+            document.getElementById("floatingmenu").style.display = 'block';
+            document.getElementById("arrowplace").className = "glyphicon glyphicon-chevron-up";
+
+        }
+        else if (document.getElementById("floatingmenu").style.display == 'block') {
+            document.getElementById("floatingmenu").style.display = 'none';
+            document.getElementById("arrowplace").className = "glyphicon glyphicon-chevron-down";
+        }
+    }
+    CloseMenu();
+</script>
+
+<div class="nav menuhidetop">
+    <ul class="nav">
+      <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="https://www.russsh.com/images1/menu.png" style="margin-top:-3px;" /> Menu </a>
+        <ul class="dropdown-menu">
+             <li><a href="#"><i class="fa fa-home -square fa-lg"></i>
+Home</a></li>
+             <li class="dropdown-submenu"> <a tabindex="-1" href="#">Services </a>
+            <ul class="dropdown-menu dwopbox">
+              <div class="col-md-4 inner_menutop">
+                <!--<h1>Personal Assistance For Individuals</h1>-->
+                 <br />
+                <ul>
+                  <li class="link"> <a href="services/cake-delivery/">Cake Delivery</a> </li>
+                  <li class="link"> <a href="services/clothes-delivery-service/" title="">Clothes delivery service</a> </li>
+                  <li class="link"> <a href="services/grocery-shopping-and-delivery/" title="">Grocery Shopping &amp; Delivery</a> </li>
+                  <li class="link"> <a href="services/food-delivery/" title="">Food Delivery</a> </li>
+                  <li class="link"> <a href="services/gift-and-flower-delivery/" title="">Gift Delivery</a> </li>
+                  <li class="link"> <a href="services/flower-delivery/" title="">Flower Delivery</a> </li>
+                 <li class="link"> <a href="services/Laptop-computer-hard-drive-usb-delivery/" title="">Electronic Devices Delivery</a> </li>
+                 <li class="link"> <a href="services/Crockery-utensils-jar-delivery/" title="">Home & Kitchen Item Delivery</a> </li>
+                </ul>
+              </div>
+              <div class="col-md-4 inner_menutop">
+                  <br />
+               <!-- <h1>Personal Assistance For Business</h1>
+                  -->
+                <ul>
+                 
+                  <li class="link"> <a href="services/bakery-delivery/" title="">Bakery Delivery</a> </li>
+                  <li class="link"> <a href="services/chocolate-delivery/" title="">Chocolate Delivery</a> </li>
+                  <li class="link"> <a href="services/cash-cheque-delivery/" title="">Cash & Cheque Delivery</a> </li>
+                  <li class="link"> <a href="services/bulk-delivery/" title="">Bulk Delivery</a> </li>
+                  <li class="link"> <a href="services/same-day-document-delivery/" title="">Same Day Document Delivery</a> </li>
+                  <li class="link"> <a href="services/parcel-delivery/" title="">Parcel Delivery</a> </li>
+                  <!--<li class="link"> <a href="services/card-delivery-service/" title="">Card Delivery Service</a> </li>-->
+                </ul>
+              </div>
+            <!--  <div class="col-md-4 inner_menutop">
+                <h1>Personal Assistance For Occasions</h1>
+                <br />
+                <ul>
+                  <li class="link"> <a href="#" title="">Card Delivery Service</a> </li>
+                </ul>
+              </div>-->
+            </ul>
+          </li>
+          <li><a href="about-us">About Us</a></li>
+          <li><a href="book-a-service">Book A Service</a></li>
+          <li><a href="faq">FAQs</a></li>
+          <li><a href="testimonials">Testimonials</a></li>
+          <li><a href="blog">Blog</a></li>
+          <li><a href="contact-us">Contact us</a></li>
+         
+        </ul>
+      </li>
+    </ul>
+  </div>
+<!--end nav-->
+      
+      
+      
+      <div class="logo" style="padding-bottom:3px;padding-top:3px;"><a href="#"><img src="https://www.russsh.com/images1/logo1.png" title="Russsh" alt="Russsh"></a></div>
+         
+<div class="calltext"><i class="fa fa-phone-square fa-lg"></i>&nbsp;+91-80808 08315<br>
+
+
+      <a href="#" style="color:white;" id="namelink" >Hello Guest <span id="arrowplace" class="glyphicon glyphicon-chevron-down" aria-hidden="true"   onclick="OpenMenu()"   ></span></a>
+    <div class="Hellodwopmenu" id="floatingmenu" style="display:none;"  >
+    <ul>
+<li><a href="EditProfile"><i class="fa fa-user fa-lg"></i>&nbsp;&nbsp;My Profile</a></li>
+<li><a href="ChangePassword"><i class="fa fa-key fa-lg"></i>&nbsp;&nbsp;Change Password</a></li>
+<li><a href="Wallet"><i class="fa fa-money"></i>&nbsp;&nbsp;My Wallet</a></li>
+<li><a href="Orders"><i class="fa fa-tasks fa-lg"></i>&nbsp;&nbsp;My Orders</a></li>
+<li><a href="EditAddress"> <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;Address Book</a></li>
+<li><a href="BookTask"><i class="fa fa-file-text fa-lg"></i>&nbsp;&nbsp;Book a Task</a></li>
+<li><a href="Signout"><i class="fa fa-sign-out fa-lg"></i>&nbsp;&nbsp; Sign Out</a></li>
+        </ul>
+</div>
+   <span id="loginsignuplabel"><a href="signin">Login</a> | <a href="signup">Sign up</a></span>
+</div>         
+
+
+<!-- <div class="calltext" style="font-size:14pt;"><i class="fa fa-phone-square fa-lg"></i>&nbsp;+91-80808 08315 <br>
+   </div>-->
+      <div class="clearfix"> </div>

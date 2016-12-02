@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="51px" height="69px" viewBox="0 0 51 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 48</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,18.7285572 C0,18.7285572 0,-3.73105802e-15 19.5,0 C39,3.89227657e-15 39,18.7285572 39,18.7285572 L39,64.7939453 L0,64.8765259 L0,18.7285572 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="39" height="64.8765259" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M2.97583008,18.4153919 C2.97583008,18.4153919 3.97460762,2.68969725 20.0220938,2.94482422 C36.0695801,3.19995118 36.0695811,18.4153919 36.0695811,18.4153919 L36.0695801,62.0087891 L2.97583008,62.0087891 L2.97583008,18.4153919 Z" id="path-3"></path>
+        <path d="M3.95532227,18.4153919 C3.95532227,18.4153919 3.79394531,2.93066406 20.5047607,2.93066406 C37.2155762,2.93066406 37.2155743,18.4153919 37.2155743,18.4153919 L3.95532227,18.4153919 Z" id="path-4"></path>
+        <path d="M18.7211914,8.44873047 C16.4301758,12.4277344 15.3393555,18.4153919 15.3393555,18.4153919 L3.94116211,18.4153919 C3.94116211,18.4153919 3.73045765,10.7526266 9.57177748,6.22021479 C12.0416024,4.30382192 15.3597833,2.94219971 20.5791623,2.94219971 C21.7833837,2.94219971 23.6188351,3.12194825 23.6188351,3.12194825 C23.6188351,3.12194825 21.012207,4.46972656 18.7211914,8.44873047 Z" id="path-5"></path>
+        <rect id="path-6" x="0" y="56" width="41" height="9"></rect>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="41" height="9" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <rect id="path-8" x="1.28888889" y="4.25" width="26.4222222" height="22.75" rx="2"></rect>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26.4222222" height="22.75" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <rect id="path-10" x="0" y="0" width="29" height="6.2" rx="1"></rect>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="29" height="6.2" fill="white">
+            <use xlink:href="#path-10"></use>
+        </mask>
+        <rect id="path-12" x="8.37777778" y="9.45" width="12.2444444" height="1.3" rx="0.65"></rect>
+        <mask id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12.2444444" height="1.3" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-48">
+            <g id="Group-35">
+                <g id="Group-31">
+                    <g id="Group-7-Copy">
+                        <g id="Group-227-Copy">
+                            <g id="Group-224">
+                                <g id="Group-30" transform="translate(1.000000, 0.000000)">
+                                    <use id="Rectangle-804" stroke="#4C4F58" mask="url(#mask-2)" stroke-width="6" fill="#FFFFFF" xlink:href="#path-1"></use>
+                                    <use id="Rectangle-804-Copy" fill="#F1FAFA" xlink:href="#path-3"></use>
+                                </g>
+                                <use id="Rectangle-804-Copy-2" fill="#F6CD27" xlink:href="#path-4"></use>
+                                <path d="M3.91357422,18.4039307 L15.3417969,18.4039307 C15.3417969,18.4039307 13.145752,25.2255859 11.3867188,35.8081055 C9.62768555,46.390625 10.2127686,55.9746094 10.2127686,55.9746094 L3.91357422,55.9746094 L3.91357422,18.4039307 Z" id="Path-10659" fill="#D9E1E0"></path>
+                                <use id="Rectangle-804-Copy-3" fill="#DEB511" xlink:href="#path-5"></use>
+                                <use id="Rectangle-807" stroke="#4C4F58" mask="url(#mask-7)" stroke-width="6" fill="#F8F7F7" xlink:href="#path-6"></use>
+                                <text id="KM" font-family="Helvetica-Bold, Helvetica" font-size="12" font-weight="bold" fill="#4C4F58">
+                                    <tspan x="11" y="46">KM</tspan>
+                                </text>
+                                <path d="M7.5,28.5 L33.5,28.5" id="Line" stroke="#4C4F58" stroke-linecap="square"></path>
+                                <path d="M2.9901123,58.9489746 L10.4882202,58.9489746 C10.4882202,58.9489746 10.5584717,59.9480591 10.8033447,60.6589966 C11.0482178,61.3699341 11.4951782,62.0302124 11.4951782,62.0302124 L2.9901123,62.0302124 L2.9901123,58.9489746 Z" id="Path-10660" fill="#E7E4E4"></path>
+                            </g>
+                            <g id="Group-225" transform="translate(22.000000, 42.000000)">
+                                <use id="Rectangle-817" stroke="#4C4F58" mask="url(#mask-9)" stroke-width="6" fill="#756C6C" xlink:href="#path-8"></use>
+                                <path d="M4.26831055,7.22595212 L14.2059326,7.22595212 C14.2059326,7.22595212 11.7637858,10.6847778 10.8512424,15.6173828 C9.938699,20.5499878 10.1237182,24.02948 10.1237182,24.02948 L4.26831055,24.02948 L4.26831055,7.22595212 Z" id="Path-10661" fill="#969191"></path>
+                                <use id="Rectangle-818" stroke="#4C4F58" mask="url(#mask-11)" stroke-width="4" fill="#A8A3A3" xlink:href="#path-10"></use>
+                                <use id="Rectangle-819" stroke="#E4E0E0" mask="url(#mask-13)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-12"></use>
+                                <path d="M2.06994628,4.26501464 L2.06994628,1.97351073 L18.0065918,1.97351073 C18.0065918,1.97351073 17.5743459,2.47718225 17.0552978,3.11926268 C16.5362498,3.76134311 16.1541748,4.26501465 16.1541748,4.26501465 L2.06994628,4.26501464 Z" id="Path-10662" fill="#D8D8D8"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

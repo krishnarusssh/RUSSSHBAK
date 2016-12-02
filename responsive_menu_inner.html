@@ -1,0 +1,104 @@
+﻿
+<script type="text/javascript">
+    function getCook(cookiename) {
+        // Get name followed by anything except a semicolon
+
+        var cookiestring = RegExp("" + cookiename + "[^;]+").exec(document.cookie);
+        // Return everything after the equal sign
+        return unescape(!!cookiestring ? cookiestring.toString().replace(/^[^=]+./, "") : "");
+    }
+    var cookieValue = getCook('LOGINNAME');
+
+    if (cookieValue != "") {
+        document.getElementById("namelink").innerHTML = "Hello " + cookieValue + " <span id='arrowplace' class='glyphicon glyphicon-chevron-down' aria-hidden='true' onclick='OpenCloseMenu()'></span>";
+        document.getElementById("namelink").style.display = 'block';
+        document.getElementById("floatingmenu").style.display = 'block';
+        document.getElementById("loginsignuplabel").style.display = 'none';
+
+        document.getElementById("outerlink1").style.display = 'block';
+        document.getElementById("outerlink2").style.display = 'block';
+        document.getElementById("outerlink3").style.display = 'block';
+        document.getElementById("Li1").style.display = 'block';
+        document.getElementById("outerlink4").style.display = 'none';
+        document.getElementById("outerlink5").style.display = 'block';
+        document.getElementById("outerlink6").style.display = 'block';
+        document.getElementById("outerlink7").style.display = 'block';
+        document.getElementById("outerlink8").style.display = 'block';
+
+        document.getElementById("innerlink1").style.display = 'block';
+        document.getElementById("innerlink1").innerHTML = "<i class='fa fa-user fa-lg'></i>&nbsp;<b>" + cookieValue + "</b>";
+        document.getElementById("innerlink2").style.display = 'block';
+        document.getElementById("innerlink3").style.display = 'block';
+        document.getElementById("innerlink4").style.display = 'block';
+        document.getElementById("innerlink5").style.display = 'block';
+        document.getElementById("innerlink6").style.display = 'block';
+        document.getElementById("innerlink7").style.display = 'block';
+        document.getElementById("responsive_login_icon").style.display = 'none';
+
+    }
+    else {
+        document.getElementById("namelink").innerHTML = "Hello Guest <span id='Span1' class='glyphicon glyphicon-chevron-down' aria-hidden='true' onclick='OpenCloseMenu()'></span>";
+        document.getElementById("namelink").style.display = 'none';
+        document.getElementById("floatingmenu").style.display = 'none';
+        document.getElementById("loginsignuplabel").style.display = 'block';
+
+
+        document.getElementById("outerlink1").style.display = 'block';
+        document.getElementById("outerlink2").style.display = 'block';
+        document.getElementById("outerlink3").style.display = 'block';
+        document.getElementById("outerlink4").style.display = 'block';
+        document.getElementById("outerlink5").style.display = 'block';
+        document.getElementById("outerlink6").style.display = 'block';
+        document.getElementById("outerlink7").style.display = 'block';
+        document.getElementById("outerlink8").style.display = 'block';
+
+        document.getElementById("innerlink1").style.display = 'none';
+        document.getElementById("innerlink2").style.display = 'none';
+        document.getElementById("innerlink3").style.display = 'none';
+        document.getElementById("Li1").style.display = 'none';
+        document.getElementById("innerlink4").style.display = 'none';
+        document.getElementById("innerlink5").style.display = 'none';
+        document.getElementById("innerlink6").style.display = 'none';
+        document.getElementById("innerlink7").style.display = 'none';
+        document.getElementById("responsive_login_icon").style.display = 'block';
+
+    }
+
+</script>
+
+
+ <div class="top-menu menuhide" >
+    <div class="container"> <span class="menu"> </span>
+      <div class="logo smalllogo"><a href="https://www.russsh.com"><img src="https://www.russsh.com/images1/logo1.png" class="img-responsive" title="Russsh" alt="Russsh"></a></div> 
+       <div class="losin_icon " id="responsive_login_icon"> <a href="https://www.russsh.com/signin"><img src="https://www.russsh.com/images1/login_icon.png" class="imgeffect" title="login" alt="login"></a> <a href="https://www.russsh.com/signup"><img src="https://www.russsh.com/images1/signup.png" class="imgeffect" title="signup" alt="signup"></a> </div> 
+         <ul class="cl-effect-16">
+        
+            <li  id="innerlink1" style="padding:5px;color:#fff;"><i class="fa fa-user fa-lg"></i> Krishna Kant Verma</li>
+
+               <li style="padding:5px;" id="outerlink1"><a href="https://www.russsh.com"><i class="fa fa-home -square fa-lg"></i>&nbsp;Home</a></li>
+        <li class="mar_left" style="padding:5px;" id="outerlink2"><a href="https://www.russsh.com/services/cake-delivery/">Services</a> </li>
+        <li style="padding:1px;" id="outerlink3"><a href="https://www.russsh.com/about-us/">About Us</a></li>
+        <li style="padding:1px;" id="outerlink4"><a href="https://www.russsh.com/book-a-service/">Book A Service</a></li>
+        <li style="padding:1px;" id="outerlink5"><a href="https://www.russsh.com/faq/">FAQs</a></li>
+        <li style="padding:1px;" id="outerlink6"><a href="https://www.russsh.com/testimonials/">Testimonials</a></li>
+        <li style="padding:1px;" id="outerlink7"><a href="https://www.russsh.com/blog/">Blog</a></li>
+        <li style="padding:1px;" id="outerlink8"><a href="https://www.russsh.com/contact-us/">Contact us</a></li>
+  
+        <li id="innerlink2" style="padding:5px;"><a href="https://www.russsh.com/ViewProfile/">My Profile</a></li>
+<li id="innerlink3" style="padding:1px;"><a href="https://www.russsh.com/ChangePassword/">Change Password</a></li>
+             <li id="Li1" style="padding:1px;"><a href="https://www.russsh.com/Wallet/">My Wallet</a></li>  
+<li id="innerlink4" style="padding:1px;"><a href="https://www.russsh.com/Orders/">My Orders</a></li>
+<li id="innerlink5" style="padding:1px;"><a href="https://www.russsh.com/EditAddress/">Address Book</a></li>
+<li id="innerlink6" style="padding:1px;"><a href="https://www.russsh.com/BookTask/">Book a Task</a></li>
+<li id="innerlink7" style="padding:1px;"><a href="https://www.russsh.com/Signout/">Sign Out</a></li>
+
+        <div class="clearfix"></div>
+      </ul>
+    </div>
+  </div>
+  <script>
+      $("span.menu").click(function () {
+          $(".top-menu ul").slideToggle("slow", function () {
+          });
+      });
+</script>

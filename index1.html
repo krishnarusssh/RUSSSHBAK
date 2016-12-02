@@ -1,0 +1,103 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>#1 Same Day Delivery Service in Mumbai & Thane - Russsh</title>
+
+<meta name="title" content="#1 Same Day Delivery Service in Mumbai & Thane - Russsh" />
+		<meta name="description" content="Pick up & Delivery company offering delivery service like cake delivery, food delivery, document delivery, gift delivery & parcel delivery in Mumbai." />
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+<script  type="text/javascript">
+
+    function CallRequestQuote(MobNo) {
+
+        $.ajax({
+            url: "SendAppLInk.ashx",
+            contentType: "application/text; charset=utf-8",
+            data: {
+                'MOBILENO': MobNo
+                },
+            success: OnComplete,
+            error: OnFail
+        });
+        return false;
+    }
+
+    function OnComplete(result) {
+
+        var values = result.split(',');
+        var res = values[0];
+        if (res == "Y") {
+            alert("Link sent to your Mobile No.");
+        }
+        else {
+            alert("Error! Sending you the link.")
+
+        }
+    }
+
+
+    function SendSMS() {
+        var mob = document.getElementById("mobile").value;
+        if (mob == "") {
+            alert("Enter Mobile No.");
+        }
+        else
+            if (mob.length != 10) {
+                alert("Invalid Mobile No.");
+
+            }
+            else {
+
+                window.location = "SendLink.ashx?M=" + mob;
+
+
+            }
+
+    }
+</script>
+</head>
+<body>
+<section class="splash fade-in" style="background:#f9b100;  border-radius:5px; margin:10px 10px 10px 10px; ">
+<header class="paddingtb-25">
+<img src="images-splash/russsh.png" class="center-block"  title=""  alt=""/>
+
+</header>
+<div class="container">
+<div class="row para">
+<div  class="col-md-6">
+<h2>Hello!</h2>
+<p>Download our android app to schedule a delivery at your convenience in Mumbai, Thane and Navi Mumbai.  </p>
+<div class="download-btn paddingtb-20 fade-in"><a href="https://play.google.com/store/apps/details?id=com.russsh.admin.russsh" target="_blank"><img  src="images-splash/google_play.png"  border="0" alt=""/></a></div>
+<div class="row paddingtb-20">
+<div  class="col-md-8">
+<div class="mt-20 "><input type="text" id="mobile" name="mobile" class="form-control" placeholder="Enter Your Mobile..." style="height:50px;" /></div>
+<hr />
+</div>
+<div  class="col-md-4">
+<div style=" padding-bottom:10px; cursor:pointer;" ><button type="button" class="app-link" onclick="SendSMS()">GET APP LINK</button></div>
+</div>
+</div>
+</div>
+<div  class="col-md-3 ">
+<img src="images-splash/splash-1.png" class="img-responsive"  alt=""/>
+</div>
+<div  class="col-md-3 ">
+<img src="images-splash/1.png" class="img-responsive"  alt=""/>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+</body>
+</html>

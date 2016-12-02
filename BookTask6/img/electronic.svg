@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="76px" viewBox="0 0 50 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>electronic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="50" height="76" rx="13"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="76" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="20" y="6" width="10" height="2.5" rx="1.25"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="2.5" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4-Copy" transform="translate(-25.000000, -37.000000)">
+            <g id="electronic" transform="translate(25.000000, 37.000000)">
+                <g id="Group-11">
+                    <g id="Group">
+                        <g id="Group-95-Copy-5">
+                            <use id="Rectangle-300" stroke="#4C4F58" mask="url(#mask-2)" stroke-width="6" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <circle id="Oval-140" fill="#4C4F58" cx="25" cy="66" r="3"></circle>
+                            <path d="M2.5,13 L47.5,13" id="Line" stroke="#4C4F58" stroke-width="2" stroke-linecap="square"></path>
+                            <path d="M2.5,58 L48.5,58" id="Line-Copy-71" stroke="#4C4F58" stroke-width="2" stroke-linecap="square"></path>
+                            <use id="Rectangle-301" stroke="#4C4F58" mask="url(#mask-4)" stroke-width="6" xlink:href="#path-3"></use>
+                            <circle id="Oval-139" stroke="#4C4F58" fill="#4C4F58" cx="34" cy="7" r="1"></circle>
+                            <rect id="Rectangle-302" fill="#AFCEDE" x="6" y="17" width="38" height="37" rx="2"></rect>
+                            <path d="M6,19.0023996 C6,17.8965048 6.8912233,17 7.99166806,17 L27.3745117,17 C27.3745117,17 14.9863281,25.5761719 14.9863281,35.5 C14.9863281,45.4238281 24.0986328,54 24.0986328,54 L8.50537109,54 L7.99837187,54 C6.89470156,54 6,53.1037214 6,51.9976004 L6,19.0023996 Z" id="Rectangle-302-Copy" fill="#D4E5ED"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

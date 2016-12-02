@@ -1,0 +1,1 @@
+﻿Dear $CUSTOMERNAME$, your task with Task ID : $TASKID$ has been cancelled successfully

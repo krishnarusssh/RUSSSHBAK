@@ -1,0 +1,75 @@
+﻿
+@media only screen and (max-width: 768px) 
+{
+    .tabs-menu 
+    {
+    margin-left:0%;
+    margin-top:20px;
+     margin-right:0%;
+ 
+}
+   
+}
+.padding-tb15 {
+    padding-top:15px;
+    padding-bottom:15px;
+}
+.tabs-menu ul
+{
+	border-bottom:1px solid #CCC;
+	list-style:none;
+	margin:0;
+	padding-left:20px;
+	padding-right:15px;
+}
+.tabs-menu li:last-child
+{
+	margin-left:80px;
+}
+.tabs-menu li
+{
+	display:inline;
+    font-family:ubuntu;
+	padding-bottom:3px;
+}
+
+.tabs-menu li.current {
+    position: relative;
+    z-index: 5;
+   transition:0.5s all ease-in-out;
+   	border-bottom:3px solid #ffa500;
+}
+
+.tabs-menu li a {
+	color:#363636;
+    text-decoration: none;
+	line-height:20px;
+}
+.tabs-menu .current a {
+    color: #363636;
+    transition:0.5s all ease-in-out;
+	font-weight:bold;
+}
+
+.tab-price {
+    border:0px solid #d4d4d1;
+    background-color: #fff;
+    float: left;
+    margin-bottom: 1px;
+    width: 100%;
+}
+
+.tab-content {
+    width: auto;
+    padding: 20px;
+    display: none;
+    font-family:ubuntu;
+}
+
+#tab-1 {
+ display: block;   
+}
+.table-head {
+    background:#fcaf17;
+    color:#FFF;
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="65px" height="71px" viewBox="0 0 65 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>OTP</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="37" height="55" rx="3"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="37" height="55" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4-Copy" transform="translate(-266.000000, -385.000000)">
+            <g id="OTP" transform="translate(266.000000, 386.000000)">
+                <g id="Group-221-Copy">
+                    <g id="Group-219" transform="translate(0.000000, 15.000000)">
+                        <use id="Rectangle-135" stroke="#4C4F58" mask="url(#mask-2)" stroke-width="4.5999999" fill="#C5DAF4" xlink:href="#path-1"></use>
+                        <rect id="Rectangle-136" fill="#FFFFFF" x="5.6440678" y="6.25" width="25.7118644" height="37.5" rx="1"></rect>
+                        <path d="M2.19491525,46.0326087 L35.4558605,46.0326087" id="Line" stroke="#4C4F58" stroke-linecap="square"></path>
+                        <ellipse id="Oval-24" fill="#625C5C" cx="18.8135593" cy="49.375" rx="1.88135593" ry="1.875"></ellipse>
+                        <ellipse id="Oval-24-Copy" fill="#4C4F58" cx="14.7372881" cy="4.6875" rx="0.313559322" ry="0.3125"></ellipse>
+                        <path d="M15.9915254,4.6875 L21.6355932,4.6875" id="Line" stroke="#4C4F58" stroke-linecap="square"></path>
+                    </g>
+                    <path d="M25.6029123,35.02296 C25.3087852,34.6093143 25.4471696,34.0873668 25.5768749,33.7309731 L28.1738725,25.5687455 L23.580668,25.5687455 C21.0550323,25.5687455 19,23.5353452 19,21.0362951 L19,4.53245042 C19,2.03340039 21.0550323,0 23.580668,0 L59.419332,0 C61.9449677,0 64,2.03340039 64,4.53245042 L64,21.0362951 C64,23.5353452 61.9449677,25.5687455 59.419332,25.5687455 L38.0526857,25.5687455 L27.3315118,34.9113186 C26.9587901,35.2357466 26.6376611,35.3874645 26.3208718,35.3874645 C26.0291555,35.3874645 25.7678164,35.2548306 25.6029123,35.02296 Z" id="Path" stroke="#4C4F58" stroke-width="2" fill="#B8E986"></path>
+                    <g id="Group-220" transform="translate(22.000000, 5.000000)">
+                        <g id="Group-218" font-size="20" font-family="LucidaGrande-Bold, Lucida Grande" fill="#4C4F58" font-weight="bold">
+                            <text id="***">
+                                <tspan x="0" y="19">***</tspan>
+                            </text>
+                        </g>
+                        <path d="M30,11 L37.2089844,11" id="Line" stroke="#4C4F58" stroke-width="1.5" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
